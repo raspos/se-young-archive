@@ -98,13 +98,10 @@ npm run build
 
 최종 검증: 단위 테스트35개·PC/모바일브라우저 테스트24개 통과, TypeScript/Vite빌드 성공. 원자료 병합본을 기준으로 검증했습니다.
 
-## Vercel 외부 배포
+## GitHub Pages 공개 배포
 
-`vercel.json`에 Vite 빌드와 dist 출력을 지정했습니다. 환경 변수나 서버는 필요하지 않습니다.
-
-```powershell
-npx --yes vercel@latest login
-npx --yes vercel@latest --prod
-```
-
-첫 배포에서 새 프로젝트를 선택하고 이름을 `se-young-archive`로 지정합니다. 이름 가용성에 따라 실제 무료 주소가 달라지므로 CLI가 반환한 Production URL을 사용합니다. `.vercelignore`는 로컬 연구 원본과 Sites 설정을 업로드에서 제외합니다. `.vercel/`의 계정별 연결 정보는 Git에 커밋하지 않습니다. GitHub 저장소를 연결하면 이후 push로 자동 배포할 수 있습니다.
+- 사이트: https://raspos.github.io/se-young-archive/
+- 소스: https://github.com/raspos/se-young-archive
+- main 브랜치에 push하면 `.github/workflows/pages.yml`이 단위 테스트와 Vite 빌드를 실행하고 GitHub Pages에 배포합니다.
+- Settings → Pages → Source는 GitHub Actions로 설정합니다. URL은 쿼리 기반이며 Vite의 상대 base로 저장소 하위 경로를 지원합니다.
+- 이 저장소에는 Sites 계정 설정·로컬 연구 원본·인증 정보가 포함되지 않습니다.

@@ -1,0 +1,1369 @@
+[
+  {
+    "date": "2026-08-23",
+    "tournament": "BWF World Championships 2026",
+    "round": "F",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-27",
+    "verification": "YouTube oEmbed HTTP 200; title, author_name=BWF TV and author_url=https://www.youtube.com/@BWF confirmed",
+    "videos": [
+      {
+        "id": "99riPBazzfk",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "BWF World Championships 2026 | An Se Young (KOR) [1] vs Akane Yamaguchi (JPN) [2] | F"
+      },
+      {
+        "id": "49OglwaWp_Y",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Akane Yamaguchi | A clash of champions"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-16",
+    "tournament": "YONEX All England Open Badminton Championships 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "XOmknKbM0Jw",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2025 | An Se Young (KOR) [1] vs. Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-15",
+    "tournament": "YONEX All England Open Badminton Championships 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "FEc3MtYKbXc",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2025 | An Se Young (KOR) [1] vs. Akane Yamaguchi (JPN) [3] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2023-08-27",
+    "tournament": "TotalEnergies BWF World Championships 2023",
+    "round": "Final",
+    "players": [
+      "an",
+      "marin"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "PIayERe9hTo",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "BWF World Championships 2023 | An Se Young (KOR) [1] vs. Carolina Marin (ESP) [6] | F"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-11",
+    "tournament": "PETRONAS Malaysia Open 2026",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "95MUXWK2lcY",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2026 | An Se Young (KOR) [1] vs Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2026-06-06",
+    "tournament": "POLYTRON Indonesia Open 2026",
+    "round": "SF",
+    "players": [
+      "an",
+      "chen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "hIU_wZ5yEq4",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "POLYTRON Indonesia Open 2026 | An Se Young (KOR) [1] vs Chen Yu Fei (CHN) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-21",
+    "tournament": "HSBC BWF World Tour Finals 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "-TTZPmvK918",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "HSBC BWF World Tour Finals 2025 | An Se Young (KOR) [1] vs. Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-26",
+    "tournament": "YONEX French Open 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "PJ8NTIHshNo",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX French Open 2025 | An Se Young (KOR) [1] vs. Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-25",
+    "tournament": "YONEX French Open 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "chen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "Lt1gniPbNZs",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX French Open 2025 | An Se Young (KOR) [1] vs. Chen Yu Fei (CHN) [5] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-17",
+    "tournament": "VICTOR Denmark Open 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "tomoka miyazaki"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "HPEx4XQXE9Q",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "VICTOR Denmark Open 2025 | An Se Young (KOR) [1] vs. Tomoka Miyazaki (JPN) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-06-08",
+    "tournament": "KAPAL API Indonesia Open 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "XeayhwV_Sik",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "KAPAL API Indonesia Open 2025 | An Se Young (KOR) [1] vs. Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2024-06-08",
+    "tournament": "KAPAL API Indonesia Open 2024",
+    "round": "SF",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "B3IFgjy4D_w",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "KAPAL API Indonesia Open 2024 | An Se Young (KOR) [1] vs. Wang Zhi Yi (CHN) [6] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2024-03-10",
+    "tournament": "YONEX French Open 2024",
+    "round": "Final",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "Bzdhx0V25rI",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX French Open 2024 | An Se Young (KOR) [1] vs. Akane Yamaguchi (JPN) [4] | F"
+      }
+    ]
+  },
+  {
+    "date": "2024-03-09",
+    "tournament": "YONEX French Open 2024",
+    "round": "SF",
+    "players": [
+      "an",
+      "tai"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "ILHbuqJf_yM",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX French Open 2024 | An Se Young (KOR) [1] vs. Tai Tzu Ying (TPE) [3] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2024-12-14",
+    "tournament": "HSBC BWF World Tour Finals 2024",
+    "round": "SF",
+    "players": [
+      "wang zhi yi",
+      "an"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "o_Xkd3LALKw",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "HSBC BWF World Tour Finals 2024 | Wang Zhi Yi (CHN) vs. An Se Young (KOR) | SF"
+      }
+    ]
+  },
+  {
+    "date": "2023-12-16",
+    "tournament": "HSBC BWF World Tour Finals 2023",
+    "round": "SF",
+    "players": [
+      "an",
+      "tai"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "EvlAtReV3LE",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "HSBC BWF World Tour Finals 2023 | An Se Young (KOR) vs. Tai Tzu Ying (TPE) | SF"
+      }
+    ]
+  },
+  {
+    "date": "2023-08-26",
+    "tournament": "TotalEnergies BWF World Championships 2023",
+    "round": "SF",
+    "players": [
+      "an",
+      "chen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "yh0X1DDOwgs",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "BWF World Championships 2023 | An Se Young (KOR) [1] vs. Chen Yu Fei (CHN) [3] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2023-03-18",
+    "tournament": "YONEX All England Open Badminton Championships 2023",
+    "round": "SF",
+    "players": [
+      "tai",
+      "an"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "XesqR0mQhbM",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2023 | Tai Tzu Ying (TPE) [3] vs. An Se Young (KOR) [2] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2023-03-19",
+    "tournament": "YONEX All England Open Badminton Championships 2023",
+    "round": "Final",
+    "players": [
+      "chen",
+      "an"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "G3Jyi0xPhhc",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2023 | Chen Yu Fei (CHN) [4] vs. An Se Young (KOR) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2022-08-23",
+    "tournament": "TotalEnergies BWF World Championships 2022",
+    "round": "R32",
+    "players": [
+      "an",
+      "thuy linh nguyen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "finRG-UQyP8",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "BWF World Championships 2022 | An Se Young (KOR) [3] vs. Thuy Linh Nguyen (VIE) | R32"
+      }
+    ]
+  },
+  {
+    "date": "2022-08-27",
+    "tournament": "TotalEnergies BWF World Championships 2022",
+    "round": "SF",
+    "players": [
+      "yamaguchi",
+      "an"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "uwI5G78YJ6o",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "BWF World Championships 2022 | Akane Yamaguchi (JPN) [1] vs. An Se Young (KOR) [3] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2022-09-02",
+    "tournament": "DAIHATSU YONEX Japan Open 2022",
+    "round": "QF",
+    "players": [
+      "marin",
+      "an"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "NmN4Kx3uNBM",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "DAIHATSU YONEX Japan Open 2022 | Carolina Marin (ESP) [5] vs. An Se Young (KOR) [3] | QF"
+      }
+    ]
+  },
+  {
+    "date": "2022-11-20",
+    "tournament": "SATHIO GROUP Australian Open 2022",
+    "round": "Final",
+    "players": [
+      "an",
+      "gregoria mariska tunjung"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "MusGo23UzRg",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "SATHIO GROUP Australian Open 2022 | An Se Young (KOR) [1] vs. Gregoria Mariska Tunjung (INA) | F"
+      }
+    ]
+  },
+  {
+    "date": "2021-12-16",
+    "tournament": "TotalEnergies BWF World Championships 2021",
+    "round": "R16",
+    "players": [
+      "wang zhi yi",
+      "an"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "1xZc7EqPEM4",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "TotalEnergies BWF World Championships 2021 | Wang Zhi Yi (CHN) [14] vs An Seyoung (KOR) [5] | R16"
+      }
+    ]
+  },
+  {
+    "date": "2021-12-17",
+    "tournament": "TotalEnergies BWF World Championships 2021",
+    "round": "QF",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "KTMssDRxRss",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "TotalEnergies BWF World Championships 2021 | An Seyoung (KOR) [5] vs Akane Yamaguchi (JPN) [2] | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-13",
+    "tournament": "YONEX All England Open Badminton Championships 2025",
+    "round": "R16",
+    "players": [
+      "an",
+      "kirsty gilmour"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "rjyavnvsElU",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2025 | An Se Young (KOR) [1] vs. Kirsty Gilmour (SCO) | R16"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-08",
+    "tournament": "All England Open Badminton Championships 2026",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "XVi5mtZYxE4",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2026 | An Se Young (KOR) [1] vs Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-14",
+    "tournament": "YONEX All England Open Badminton Championships 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "chen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "Ceuk_U1XIwE",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2025 | An Se Young (KOR) [1] vs. Chen Yu Fei (CHN) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-12",
+    "tournament": "YONEX All England Open Badminton Championships 2025",
+    "round": "R32",
+    "players": [
+      "an",
+      "gao fang jie"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "lKRzjkQbnhU",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2025 | An Se Young (KOR) [1] vs. Gao Fang Jie (CHN) | R32"
+      }
+    ]
+  },
+  {
+    "date": "2024-03-16",
+    "tournament": "YONEX All England Open Badminton Championships 2024",
+    "round": "SF",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "FWkicgA5Oxs",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2024 | An Se Young (KOR) [1] vs. Akane Yamaguchi (JPN) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-07",
+    "tournament": "All England Open Badminton Championships 2026",
+    "round": "SF",
+    "players": [
+      "an",
+      "chen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "afS09B9rs3U",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2026 | An Se Young (KOR) [1] vs Chen Yu Fei (CHN) [3] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2024-03-14",
+    "tournament": "YONEX All England Open Badminton Championships 2024",
+    "round": "R16",
+    "players": [
+      "an",
+      "sindhu"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "G4BfPeZcoms",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2024 | An Se Young (KOR) [1] vs. Pusarla V. Sindhu (IND) | R16"
+      }
+    ]
+  },
+  {
+    "date": "2026-03-06",
+    "tournament": "All England Open Badminton Championships 2026",
+    "round": "QF",
+    "players": [
+      "an",
+      "putri kusuma wardani"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "WQYYL9bv2Ts",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX All England Open 2026 | An Se Young (KOR) [1] vs Putri Kusuma Wardani (INA) [6] | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-12",
+    "tournament": "PETRONAS Malaysia Open 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "wY2plkxgAio",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2025 | An Se Young (KOR) [1] vs Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-08",
+    "tournament": "PETRONAS Malaysia Open 2026",
+    "round": "R16",
+    "players": [
+      "an",
+      "nozomi okuhara"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "bbPdhfqJHcc",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2026 | An Se Young (KOR) [1] vs Nozomi Okuhara (JPN) | R16"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-11",
+    "tournament": "PETRONAS Malaysia Open 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "intanon"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "oEBzqZ0enz4",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2025 | An Se Young (KOR) [1] vs Ratchanok Intanon (THA) | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-10",
+    "tournament": "PETRONAS Malaysia Open 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "beiwen zhang"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "KOLn0-026wc",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2025 | An Se Young (KOR) [1] vs Beiwen Zhang (USA) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-06",
+    "tournament": "PETRONAS Malaysia Open 2026",
+    "round": "R32",
+    "players": [
+      "an",
+      "michelle li"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "9fRX7ud9dL4",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2026 | An Se Young (KOR) [1] vs Michelle Li (CAN) | R32"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-09",
+    "tournament": "PETRONAS Malaysia Open 2026",
+    "round": "QF",
+    "players": [
+      "an",
+      "line h jmark kjaersfeldt"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "P6fcwuCBTcE",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2026 | An Se Young (KOR) [1] vs Line Højmark Kjaersfeldt (DEN) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-18",
+    "tournament": "YONEX-SUNRISE India Open 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "gregoria mariska tunjung"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "7vfcRcsXpyY",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX-SUNRISE India Open 2025 | An Se Young (KOR) [1] vs. Gregoria Mariska Tunjung (INA) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-19",
+    "tournament": "YONEX-SUNRISE India Open 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "pornpawee chochuwong"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "xP5RFdRRYLo",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX-SUNRISE India Open 2025 | An Se Young (KOR) [1] vs. Pornpawee Chochuwong (THA) [8] | F"
+      }
+    ]
+  },
+  {
+    "date": "2026-01-18",
+    "tournament": "YONEX-SUNRISE India Open 2026",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "NPeIcjQ3vc4",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX-SUNRISE India Open 2026 | An Se Young (KOR) [1] vs Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-01-16",
+    "tournament": "YONEX-SUNRISE India Open 2025",
+    "round": "R16",
+    "players": [
+      "an",
+      "intanon"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "jV493VGKEiU",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX-SUNRISE India Open 2025 | An Se Young (KOR) [1] vs. Ratchanok Intanon (THA) | R16"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-30",
+    "tournament": "TotalEnergies BWF World Championships 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "chen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "6-IR-XfmIlg",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "BWF World Championships 2025 | An Se Young (KOR) [1] vs. Chen Yu Fei (CHN) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-19",
+    "tournament": "DAIHATSU Japan Open 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "riko gunji"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "OL0PqbNKGeY",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "DAIHATSU Japan Open 2025 | An Se Young (KOR) [1] vs. Riko Gunji (JPN) | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-20",
+    "tournament": "DAIHATSU Japan Open 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "I-a6rJ-bwFU",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "DAIHATSU Japan Open 2025 | An Se Young (KOR) [1] vs. Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-07-18",
+    "tournament": "DAIHATSU Japan Open 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "chen"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "9YBI69FOakc",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "DAIHATSU Japan Open 2025 | An Se Young (KOR) [1] vs. Chen Yu Fei (CHN) [5] | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-18",
+    "tournament": "VICTOR Denmark Open 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "ajJHF5eHWfw",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "VICTOR Denmark Open 2025 | An Se Young (KOR) [1] vs. Akane Yamaguchi (JPN) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-28",
+    "tournament": "SUWON VICTOR Korea Open 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "-qPuznKe7Mo",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "SUWON VICTOR Korea Open 2025 | An Se Young (KOR) [1] vs. Akane Yamaguchi (JPN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-11-21",
+    "tournament": "SATHIO GROUP Australian Open 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "manami suizu"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "tN6J0UPolWs",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "SATHIO GROUP Australian Open 2025 | An Se Young (KOR) [1] vs. Manami Suizu (JPN) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-27",
+    "tournament": "SUWON VICTOR Korea Open 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "pornpawee chochuwong"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "rkeLffCuhnU",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "SUWON VICTOR Korea Open 2025 | An Se Young (KOR) [1] vs. Pornpawee Chochuwong (THA) [3] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-26",
+    "tournament": "SUWON VICTOR Korea Open 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "tomoka miyazaki"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "WLXI_YMY5Qk",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "SUWON VICTOR Korea Open 2025 | An Se Young (KOR) [1] vs. Tomoka Miyazaki (JPN) [5] | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-19",
+    "tournament": "VICTOR Denmark Open 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "wang zhi yi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "RseCk0mwFE8",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "VICTOR Denmark Open 2025 | An Se Young (KOR) [1] vs. Wang Zhi Yi (CHN) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-12-20",
+    "tournament": "HSBC BWF World Tour Finals 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "VWBWkIyMIiY",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "HSBC BWF World Tour Finals 2025 | An Se Young (KOR) [1] vs. Akane Yamaguchi (JPN) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2024-01-12",
+    "tournament": "PETRONAS Malaysia Open 2024",
+    "round": "QF",
+    "players": [
+      "an",
+      "yeo jia min"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "YrpNO4Vpwnk",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2024 | An Se Young (KOR) [1] vs. Yeo Jia Min (SGP) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2024-01-14",
+    "tournament": "PETRONAS Malaysia Open 2024",
+    "round": "Final",
+    "players": [
+      "an",
+      "tai"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "Q80LBwN35i0",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2024 | An Se Young (KOR) [1] vs. Tai Tzu Ying (TPE) [4] | F"
+      }
+    ]
+  },
+  {
+    "date": "2024-01-13",
+    "tournament": "PETRONAS Malaysia Open 2024",
+    "round": "SF",
+    "players": [
+      "an",
+      "zhang yi man"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "wUTDEVLUnww",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2024 | An Se Young (KOR) [1] vs. Zhang Yi Man (CHN) | SF"
+      }
+    ]
+  },
+  {
+    "date": "2023-01-15",
+    "tournament": "PETRONAS Malaysia Open 2023",
+    "round": "Final",
+    "players": [
+      "yamaguchi",
+      "an"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "v7kKxTwmalM",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "PETRONAS Malaysia Open 2023 | Akane Yamaguchi (JPN) [1] vs. An Se Young (KOR) [2] | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-23",
+    "tournament": "YONEX French Open 2025",
+    "round": "R16",
+    "players": [
+      "an",
+      "mia blichfeldt"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "ziNIbzFNW94",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX French Open 2025 | An Se Young (KOR) [1] vs. Mia Blichfeldt (DEN) | R16"
+      }
+    ]
+  },
+  {
+    "date": "2025-10-24",
+    "tournament": "YONEX French Open 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "gao fang jie"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "DDJ0VFvp2_s",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "YONEX French Open 2025 | An Se Young (KOR) [1] vs. Gao Fang Jie (CHN) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-22",
+    "tournament": "LI-NING China Masters 2024",
+    "round": "QF",
+    "players": [
+      "an",
+      "zhang yi man"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "aFy3Le2aWMk",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "LI-NING China Masters 2024 | An Se Young (KOR) [1] vs. Zhang Yi Man (CHN) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-23",
+    "tournament": "LI-NING China Masters 2024",
+    "round": "SF",
+    "players": [
+      "an",
+      "tomoka miyazaki"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "zg6uNYEqZH0",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "LI-NING China Masters 2024 | An Se Young (KOR) [1] vs. Tomoka Miyazaki (JPN) | SF"
+      }
+    ]
+  },
+  {
+    "date": "2024-11-24",
+    "tournament": "LI-NING China Masters 2024",
+    "round": "Final",
+    "players": [
+      "an",
+      "gao fang jie"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "WyJuwWd3kWc",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "LI-NING China Masters 2024 | An Se Young (KOR) [1] vs. Gao Fang Jie (CHN) | F"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-19",
+    "tournament": "LI-NING China Masters 2025",
+    "round": "QF",
+    "players": [
+      "an",
+      "sindhu"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "WWPk6rnfR-E",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "LI-NING China Masters 2025 | An Se Young (KOR) [1] vs. Pusarla V. Sindhu (IND) | QF"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-21",
+    "tournament": "LI-NING China Masters 2025",
+    "round": "Final",
+    "players": [
+      "an",
+      "han yue"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "IqRaapELZxU",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "LI-NING China Masters 2025 | An Se Young (KOR) [1] vs. Han Yue (CHN) [3] | F"
+      }
+    ]
+  },
+  {
+    "date": "2023-09-09",
+    "tournament": "VICTOR China Open 2023",
+    "round": "SF",
+    "players": [
+      "an",
+      "tai"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "mRbA9xmIj3k",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "VICTOR China Open 2023 | An Se Young (KOR) [1] vs. Tai Tzu Ying (TPE) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-20",
+    "tournament": "LI-NING China Masters 2025",
+    "round": "SF",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "l1m5XFSYR7g",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "LI-NING China Masters 2025 | An Se Young (KOR) [1] vs. Akane Yamaguchi (JPN) [4] | SF"
+      }
+    ]
+  },
+  {
+    "date": "2025-09-18",
+    "tournament": "LI-NING China Masters 2025",
+    "round": "R16",
+    "players": [
+      "an",
+      "mia blichfeldt"
+    ],
+    "checked": "2026-10-28",
+    "verification": "YouTube oEmbed: BWF TV official channel; title matches event, year, round and both players",
+    "videos": [
+      {
+        "id": "oDVuPIl68dM",
+        "kind": "replay",
+        "label": "전체 경기",
+        "channel": "BWF TV",
+        "title": "LI-NING China Masters 2025 | An Se Young (KOR) [1] vs. Mia Blichfeldt (DEN) | R16"
+      }
+    ]
+  }
+]

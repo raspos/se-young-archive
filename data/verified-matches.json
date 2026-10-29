@@ -1,0 +1,74 @@
+[
+  {
+    "date": "2026-08-23",
+    "tournament": "BWF World Championships 2026",
+    "tier": "World Championships",
+    "round": "F",
+    "team1": "AN Se Young",
+    "team2": "Akane YAMAGUCHI",
+    "winner": 1,
+    "score": "21-17 21-14",
+    "source": "oca2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-10-21",
+    "tournament": "YONEX French Open 2026",
+    "tier": "Super 750",
+    "round": "R32",
+    "team1": "AN Se Young",
+    "team2": "Amalie SCHULZ",
+    "winner": 1,
+    "score": "21-6 21-4",
+    "source": "france2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-10-22",
+    "tournament": "YONEX French Open 2026",
+    "tier": "Super 750",
+    "round": "R16",
+    "team1": "AN Se Young",
+    "team2": "Tanvi SHARMA",
+    "winner": 1,
+    "score": "21-11 21-14",
+    "source": "france2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-10-25",
+    "tournament": "YONEX French Open 2026",
+    "tier": "Super 750",
+    "round": "F",
+    "team1": "AN Se Young",
+    "team2": "PUSARLA V. Sindhu",
+    "winner": 1,
+    "score": "16-21 21-11 21-12",
+    "source": "frenchfinal",
+    "status": "completed"
+  },
+  {
+    "date": "2026-09-06",
+    "tournament": "LI-NING China Masters 2026",
+    "tier": "Super 750",
+    "round": "F",
+    "team1": "AN Se Young",
+    "team2": "Tomoka MIYAZAKI",
+    "winner": 1,
+    "score": "21-17 21-6",
+    "source": "oca-china2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-10-23",
+    "tournament": "YONEX French Open 2026",
+    "tier": "Super 750",
+    "round": "QF",
+    "team1": "AN Se Young",
+    "team2": "HAN Yue",
+    "winner": 1,
+    "score": "21-13 21-16",
+    "source": "france2026",
+    "status": "completed"
+  }
+]

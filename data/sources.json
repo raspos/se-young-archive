@@ -1,0 +1,210 @@
+[
+  {
+    "id": "bwf",
+    "title": "BWF 공식 선수·대회 기록",
+    "url": "https://bwfbadminton.com/",
+    "checked": "2026-10-27",
+    "scope": "공식 기록 우선 확인 경로",
+    "status": "일부 결과 페이지 접근 제한. 전체 경기 수집 완료를 주장하지 않음."
+  },
+  {
+    "id": "csv",
+    "title": "SahilMotyar · BWF Match Data",
+    "url": "https://github.com/SahilMotyar/bwf-match-data",
+    "checked": "2026-10-27",
+    "scope": "여자단식 2007-01-16–2026-07-05, 개인전 일부 등급",
+    "status": "CSV 확보. WO 제외, 기권 식별 불완전. 명시적 재배포 라이선스 미확인 → 원본·경기 전체 재배포 보류. 로컬 분석·브라우저 가져오기 지원."
+  },
+  {
+    "id": "paper",
+    "title": "Sun & Zhang · 국제 단식 경기 및 Elo 연구 (2026)",
+    "url": "https://doi.org/10.1038/s41597-026-08408-4",
+    "checked": "2026-10-27",
+    "scope": "2006–2025 단식 연구",
+    "status": "Harvard Dataverse DOI10.7910/DVN/RSAYV5 v3 원파일 확보. 세 XLSX 체크섬 일치 확인. 경기 전 랭킹·연구 Elo·점수·선수와 대회 식별자를 정규화. 원파일 전체 대신 비교 선수 관련 사실과 파생 집계만 배포."
+  },
+  {
+    "id": "olympics",
+    "title": "IOC · 올림픽 공식 결과",
+    "url": "https://www.olympics.com/en/olympic-games/paris-2024/results/badminton/women-s-singles",
+    "checked": "2026-10-27",
+    "scope": "1992–2024 정식 여자단식 메달",
+    "status": "직접 페이지 접근 제한. Olympedia, BWF 미디어 가이드 및 공식 결과집으로 교차 확인."
+  },
+  {
+    "id": "olympedia",
+    "title": "Olympedia · 여자단식 올림픽 기록",
+    "url": "https://www.olympedia.org/event_names/125",
+    "checked": "2026-10-27",
+    "scope": "정식·시범종목 구분, 메달, 생년월일",
+    "status": "선수별 원문 링크는 비교실 프로필에 제공."
+  },
+  {
+    "id": "worlds",
+    "title": "세계선수권 · 여자단식 역대 입상자",
+    "url": "https://en.wikipedia.org/wiki/List_of_BWF_World_Championships_medalists",
+    "checked": "2026-10-27",
+    "scope": "IBF/BWF 여자단식, 비교 공통 기준 2024-12-31",
+    "status": "우승 사실만 수기 구조화. WBF 별도 대회·복식·단체전 제외."
+  },
+  {
+    "id": "england",
+    "title": "Badminton Museum · 전영오픈 역대 우승자",
+    "url": "https://badmintonmuseum.co.uk/past-winners/",
+    "checked": "2026-10-27",
+    "scope": "여자단식 우승, 2024년까지",
+    "status": "역사적 사실을 수기 구조화. 전체 본문·사진 재배포 없음."
+  },
+  {
+    "id": "oca2026",
+    "title": "OCA · 안세영 두 번째 세계선수권",
+    "url": "https://oca.asia/news/7763-koreas-an-wins-second-world-badminton-title.html",
+    "checked": "2026-10-27",
+    "scope": "2026-08-23 결승",
+    "status": "아시아올림픽평의회 보도: 야마구치에 21–17, 21–14 승리."
+  },
+  {
+    "id": "france2026",
+    "title": "프랑스오픈 조직위 · 2026 안세영 경기",
+    "url": "https://www.yonexifb.com/uk/news/2026-10-23/an-se-young-in-command",
+    "checked": "2026-10-28",
+    "scope": "2026 프랑스오픈 32강·16강·8강",
+    "status": "조직위 기사에서 경기별 점수 확인"
+  },
+  {
+    "id": "frenchfinal",
+    "title": "서울경제 · 프랑스오픈 2026 결승",
+    "url": "https://en.sedaily.com/sports/2026/10/25/an-se-young-wins-10th-title-of-season-at-french-open",
+    "checked": "2026-10-27",
+    "scope": "2026-10-25 결승",
+    "status": "신두에 16–21, 21–11, 21–12. 시즌 10승 보도는 통산 경기별 집계와 구분."
+  },
+  {
+    "id": "era",
+    "title": "BWF · 투어 체제 개편",
+    "url": "https://bwfworldtour.bwfbadminton.com/",
+    "checked": "2026-10-27",
+    "scope": "2018 월드투어, 2006 랠리포인트 제도",
+    "status": "투어 우승은 원래 등급을 보존하며 서로 다른 제도를 자동 환산하지 않음."
+  },
+  {
+    "id": "oca-china2026",
+    "title": "OCA · 2026 차이나 마스터스 결승",
+    "url": "https://oca.asia/news/7813-asian-games-champion-an-warms-up-for-title-defence-with-victory-in-shenzhen.html",
+    "checked": "2026-10-28",
+    "scope": "2026-09-06 결승",
+    "status": "미야자키 도모카 상대 21–17, 21–6 승리 확인"
+  },
+  {
+    "id": "ranking-history",
+    "title": "여자단식 세계 1위 재임 시계열 · BWF World Ranking",
+    "url": "https://en.wikipedia.org/wiki/BWF_World_Ranking#Women's_singles_2",
+    "checked": "2026-10-29",
+    "scope": "2009-10-01 이후 재임표 · 2024-12-31까지 공통 집계",
+    "status": "공개 주별 재임표를 구조화. Badminton API의 공개 재임표로 교차 확인. 코로나19 동결 주수를 임의로 더하지 않음. 2009년 이전 주수는 추정하지 않음."
+  },
+  {
+    "id": "ranking-crosscheck",
+    "title": "Badminton API · 공개 여자단식 재임표",
+    "url": "https://badmintonapi.com/rankings/womens-singles",
+    "checked": "2026-10-29",
+    "scope": "1위 재임 구간·종료 선수 누적 주수 교차 확인",
+    "status": "유료 API 미사용. 공개 웹에서 사실 확인만 수행. 2026 최신 합계의 주차 차이는 2024 공통 기준으로 절단해 사용."
+  },
+  {
+    "id": "marin-retirement",
+    "title": "스페인배드민턴협회 · 마린 은퇴 발표",
+    "url": "https://www.badminton.es/news/163011/Carolina-Marin-anuncia-su-retirada-del-badminton",
+    "checked": "2026-10-29",
+    "scope": "2026-03-26 은퇴 발표",
+    "status": "국가 협회 공식 발표 확인."
+  },
+  {
+    "id": "worlds1983",
+    "title": "1983 세계선수권 · 개최일과 여자단식 입상자",
+    "url": "https://en.wikipedia.org/wiki/1983_IBF_World_Championships",
+    "checked": "2026-10-29",
+    "scope": "여자단식 우승자와 대회 종료일",
+    "status": "대회 종료일을 연령 계산 기준으로 사용. 선수의 우승 사실은 Olympedia 프로필과 교차 확인. 시범 올림픽·WBF·복식 제외."
+  },
+  {
+    "id": "worlds1985",
+    "title": "1985 세계선수권 · 개최일과 여자단식 입상자",
+    "url": "https://en.wikipedia.org/wiki/1985_IBF_World_Championships",
+    "checked": "2026-10-29",
+    "scope": "여자단식 우승자와 대회 종료일",
+    "status": "대회 종료일을 연령 계산 기준으로 사용. 선수의 우승 사실은 Olympedia 프로필과 교차 확인. 시범 올림픽·WBF·복식 제외."
+  },
+  {
+    "id": "worlds1987",
+    "title": "1987 세계선수권 · 개최일과 여자단식 입상자",
+    "url": "https://en.wikipedia.org/wiki/1987_IBF_World_Championships",
+    "checked": "2026-10-29",
+    "scope": "여자단식 우승자와 대회 종료일",
+    "status": "대회 종료일을 연령 계산 기준으로 사용. 선수의 우승 사실은 Olympedia 프로필과 교차 확인. 시범 올림픽·WBF·복식 제외."
+  },
+  {
+    "id": "worlds1989",
+    "title": "1989 세계선수권 · 개최일과 여자단식 입상자",
+    "url": "https://en.wikipedia.org/wiki/1989_IBF_World_Championships",
+    "checked": "2026-10-29",
+    "scope": "여자단식 우승자와 대회 종료일",
+    "status": "대회 종료일을 연령 계산 기준으로 사용. 선수의 우승 사실은 Olympedia 프로필과 교차 확인. 시범 올림픽·WBF·복식 제외."
+  },
+  {
+    "id": "harvard",
+    "title": "Sun·Zhang · Harvard Dataverse v3 · CC BY 4.0",
+    "url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "scope": "2006–2025 · 여자단식 원자료 70,306행 중 비교 선수 관련 4,336행",
+    "status": "경기 전 BWF 랭킹·모델 Elo·승패·점수. 원 XLSX MD5 검증. 결측 랭킹은 null 유지. 공개 선수 ID·성별 확인. 출처와 이용 조건: /licenses/harvard-attribution.txt",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "ranking-csv",
+    "title": "SanderP99 · BWF World Ranking dumps · MIT",
+    "url": "https://github.com/SanderP99/Badminton-Data",
+    "scope": "2022-11-10–2025-01-06 수집표 106개",
+    "status": "고정 커밋054ca53408ac24f88724010f7e75dc0af35ce9b9. 수집일은 발표일로 변환하지 않음. Top10 완전성·이름·SHA256 검증. 원본 전체 대신 안세영 관측값과 Top10 사실만 구조화.",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "an-year-ranks",
+    "title": "안세영 · 연말 순위 및 최근 확인 순위",
+    "url": "https://en.wikipedia.org/wiki/An_Se-young",
+    "scope": "여자단식 연말2018–2025 · 현재2026-10-27",
+    "status": "연말 기준일과 실제 랭킹 발표일을 구분. 현재1위는 공개 재임표·공개 랭킹 페이지로 교차 확인.",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "an-first-one",
+    "title": "KBS · 안세영 첫 세계1위",
+    "url": "https://world.kbs.co.kr/service/news_view.htm?Seq_Code=179502&lang=e",
+    "scope": "2023-08-01 첫 세계1위",
+    "status": "대한배드민턴협회 발표 인용.",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "asia-seeding-2025",
+    "title": "아시아배드민턴연맹 · 2025 공식 시딩 보고서",
+    "url": "https://badmintonasia.org/wp-content/uploads/2024/04/BANK-OF-NINGBO-Badminton-Asia-Championships-2025-Seeding-Report.pdf",
+    "scope": "랭킹 기준2025-03-18",
+    "status": "시드 번호가 아닌 Rank열의1위112867.0046점 확인.",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "hongkong-history",
+    "title": "홍콩오픈 조직위 · 역대 우승자",
+    "url": "https://hkopenbadminton.org/wp-content/uploads/2025/05/Cham-of-HKO-2025.pdf",
+    "scope": "여자단식 · 1982–2024 우승 연도",
+    "status": "공식전체34개대회 명단에서 비교15명 추출. 여자복식과 구분. 전체 통산 투어 우승 수로 사용하지 않음.",
+    "checked": "2026-10-29"
+  },
+  {
+    "id": "german-history",
+    "title": "독일오픈 조직위 · 역대 우승자",
+    "url": "https://www.german-open-badminton.de/wp-content/uploads/2022/02/YGO-2026-Winners-1955-2025-1.pdf",
+    "scope": "여자단식 · 1955–2024 우승 연도",
+    "status": "공식목록의 WinnerWS열 확인. 2025년 제외. 취소·공란연도에 가상 우승자를 부여하지 않음.",
+    "checked": "2026-10-29"
+  }
+]

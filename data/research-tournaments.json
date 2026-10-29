@@ -1,0 +1,7716 @@
+[
+  {
+    "tournament_id": 10014,
+    "name": "Malaysia Masters 2024",
+    "country": "Malaysia",
+    "start_date": "2024-05-21",
+    "end_date": "2024-05-26",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10019,
+    "name": "Malaysia Open 2014",
+    "country": "Malaysia",
+    "start_date": "2014-01-14",
+    "end_date": "2014-01-19",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10022,
+    "name": "Thailand Masters 2020",
+    "country": "Thailand",
+    "start_date": "2020-01-21",
+    "end_date": "2020-01-26",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10033,
+    "name": "Singapore Open 2019",
+    "country": "Singapore",
+    "start_date": "2019-04-09",
+    "end_date": "2019-04-14",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10054,
+    "name": "All England Open 2020",
+    "country": "England",
+    "start_date": "2020-03-11",
+    "end_date": "2020-03-15",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10057,
+    "name": "Thailand Masters 2017",
+    "country": "Thailand",
+    "start_date": "2017-02-07",
+    "end_date": "2017-02-12",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10059,
+    "name": "Osaka International Challenge 2015",
+    "country": "Japan",
+    "start_date": "2015-04-01",
+    "end_date": "2015-04-05",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10087,
+    "name": "Korea Open 2014",
+    "country": "Korea",
+    "start_date": "2014-01-07",
+    "end_date": "2014-01-12",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10088,
+    "name": "Singapore Open 2011",
+    "country": "Singapore",
+    "start_date": "2011-06-14",
+    "end_date": "2011-06-19",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10094,
+    "name": "Syed Modi India International 2011",
+    "country": "India",
+    "start_date": "2011-12-20",
+    "end_date": "2011-12-25",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10097,
+    "name": "Japan Open 2009",
+    "country": "Japan",
+    "start_date": "2009-09-22",
+    "end_date": "2009-09-27",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10121,
+    "name": "China Masters 2009",
+    "country": "China",
+    "start_date": "2009-09-15",
+    "end_date": "2009-09-20",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10128,
+    "name": "Singapore Open 2023",
+    "country": "Singapore",
+    "start_date": "2023-06-06",
+    "end_date": "2023-06-11",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10140,
+    "name": "Indonesia Surabaya Challenge 2007",
+    "country": "Indonesia",
+    "start_date": "2007-08-28",
+    "end_date": "2007-09-01",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10148,
+    "name": "China Open 2007",
+    "country": "China",
+    "start_date": "2007-11-20",
+    "end_date": "2007-11-25",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10149,
+    "name": "Australian Open 2012",
+    "country": "Australia",
+    "start_date": "2012-04-03",
+    "end_date": "2012-04-08",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10155,
+    "name": "German Open 2011",
+    "country": "Germany",
+    "start_date": "2011-03-01",
+    "end_date": "2011-03-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10161,
+    "name": "Australian Open 2023",
+    "country": "Australia",
+    "start_date": "2023-08-01",
+    "end_date": "2023-08-06",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10173,
+    "name": "French Open 2021",
+    "country": "France",
+    "start_date": "2021-10-26",
+    "end_date": "2021-10-31",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10181,
+    "name": "Malaysia Open 2013",
+    "country": "Malaysia",
+    "start_date": "2013-01-15",
+    "end_date": "2013-01-20",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10183,
+    "name": "World Championships 2017",
+    "country": "Scotland",
+    "start_date": "2017-08-21",
+    "end_date": "2017-08-27",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10186,
+    "name": "Vietnam International Challenge 2008",
+    "country": "Vietnam",
+    "start_date": "2008-07-01",
+    "end_date": "2008-07-06",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10194,
+    "name": "Korea Masters 2019",
+    "country": "Korea",
+    "start_date": "2019-11-19",
+    "end_date": "2019-11-24",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10220,
+    "name": "India Open 2019",
+    "country": "India",
+    "start_date": "2019-03-26",
+    "end_date": "2019-03-31",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10236,
+    "name": "World Championships 2006",
+    "country": "Spain",
+    "start_date": "2006-09-18",
+    "end_date": "2006-09-24",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10237,
+    "name": "Malaysia Masters 2013",
+    "country": "Malaysia",
+    "start_date": "2013-04-30",
+    "end_date": "2013-05-04",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10244,
+    "name": "Swiss Open 2009",
+    "country": "Switzerland",
+    "start_date": "2009-03-10",
+    "end_date": "2009-03-15",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10249,
+    "name": "THE SMILING FISH International Challenge 2010",
+    "country": "Thailand",
+    "start_date": "2010-05-04",
+    "end_date": "2010-05-09",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10260,
+    "name": "China Open 2011",
+    "country": "China",
+    "start_date": "2011-11-22",
+    "end_date": "2011-11-27",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10266,
+    "name": "Bitburger Open 2015",
+    "country": "Germany",
+    "start_date": "2015-10-27",
+    "end_date": "2015-11-01",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10278,
+    "name": "Macau Open 2010",
+    "country": "Macau China",
+    "start_date": "2010-07-27",
+    "end_date": "2010-08-01",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10281,
+    "name": "Fuzhou China Open 2019",
+    "country": "China",
+    "start_date": "2019-11-05",
+    "end_date": "2019-11-10",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10282,
+    "name": "Orleans Masters 2023",
+    "country": "France",
+    "start_date": "2023-04-04",
+    "end_date": "2023-04-09",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10289,
+    "name": "Chinese Taipei Open 2012",
+    "country": "Chinese Taipei",
+    "start_date": "2012-10-02",
+    "end_date": "2012-10-07",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10297,
+    "name": "China Open 2013",
+    "country": "China",
+    "start_date": "2013-11-12",
+    "end_date": "2013-11-17",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10298,
+    "name": "India Open 2024",
+    "country": "India",
+    "start_date": "2024-01-16",
+    "end_date": "2024-01-21",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10312,
+    "name": "Fuzhou China Open 2018",
+    "country": "China",
+    "start_date": "2018-11-06",
+    "end_date": "2018-11-11",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10316,
+    "name": "Macau Open 2012",
+    "country": "Macau China",
+    "start_date": "2012-11-27",
+    "end_date": "2012-12-02",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10326,
+    "name": "Malaysia International Challenge 2008",
+    "country": "Malaysia",
+    "start_date": "2008-11-18",
+    "end_date": "2008-11-23",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10335,
+    "name": "World Championships 2014",
+    "country": "Denmark",
+    "start_date": "2014-08-25",
+    "end_date": "2014-08-31",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10339,
+    "name": "Syed Modi India International 2009",
+    "country": "India",
+    "start_date": "2009-12-15",
+    "end_date": "2009-12-20",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10353,
+    "name": "French Open 2024",
+    "country": "France",
+    "start_date": "2024-03-05",
+    "end_date": "2024-03-10",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10357,
+    "name": "Swiss Open 2011",
+    "country": "Switzerland",
+    "start_date": "2011-03-15",
+    "end_date": "2011-03-20",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10363,
+    "name": "Japan Open 2007",
+    "country": "Japan",
+    "start_date": "2007-09-11",
+    "end_date": "2007-09-16",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10365,
+    "name": "Super Series Finals 2011",
+    "country": "China",
+    "start_date": "2011-12-14",
+    "end_date": "2011-12-18",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 10369,
+    "name": "German Open 2014",
+    "country": "Germany",
+    "start_date": "2014-02-25",
+    "end_date": "2014-03-02",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10381,
+    "name": "Swiss Open 2016",
+    "country": "Switzerland",
+    "start_date": "2016-03-15",
+    "end_date": "2016-03-20",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10394,
+    "name": "Chinese Taipei Open 2016",
+    "country": "Chinese Taipei",
+    "start_date": "2016-06-28",
+    "end_date": "2016-07-03",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10405,
+    "name": "Austrian Open 2011",
+    "country": "Austria",
+    "start_date": "2011-02-23",
+    "end_date": "2011-02-26",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10410,
+    "name": "Korea Open 2018",
+    "country": "Korea",
+    "start_date": "2018-09-25",
+    "end_date": "2018-09-30",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10423,
+    "name": "Denmark Open 2022",
+    "country": "Denmark",
+    "start_date": "2022-10-18",
+    "end_date": "2022-10-23",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10430,
+    "name": "China Open 2019",
+    "country": "China",
+    "start_date": "2019-09-17",
+    "end_date": "2019-09-22",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10438,
+    "name": "Bitburger Open 2012",
+    "country": "Germany",
+    "start_date": "2012-10-30",
+    "end_date": "2012-11-04",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10452,
+    "name": "Malaysia Open 2019",
+    "country": "Malaysia",
+    "start_date": "2019-04-02",
+    "end_date": "2019-04-07",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10460,
+    "name": "China Open 2015",
+    "country": "China",
+    "start_date": "2015-11-10",
+    "end_date": "2015-11-15",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10474,
+    "name": "German Open 2007",
+    "country": "Germany",
+    "start_date": "2007-02-27",
+    "end_date": "2007-03-04",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10483,
+    "name": "World Championships 2010",
+    "country": "France",
+    "start_date": "2010-08-23",
+    "end_date": "2010-08-29",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10496,
+    "name": "Indonesia Masters 2011",
+    "country": "Indonesia",
+    "start_date": "2011-09-27",
+    "end_date": "2011-10-02",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10505,
+    "name": "Super Series Finals 2015",
+    "country": "United Arab Emirates",
+    "start_date": "2015-12-09",
+    "end_date": "2015-12-13",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 10507,
+    "name": "All England Open 2017",
+    "country": "England",
+    "start_date": "2017-03-07",
+    "end_date": "2017-03-12",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10520,
+    "name": "Korea Open 2011",
+    "country": "Korea",
+    "start_date": "2011-01-25",
+    "end_date": "2011-01-30",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10523,
+    "name": "Norwegian International 2010",
+    "country": "Norway",
+    "start_date": "2010-11-18",
+    "end_date": "2010-11-21",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10524,
+    "name": "Hong Kong Open 2010",
+    "country": "Hong Kong",
+    "start_date": "2010-12-06",
+    "end_date": "2010-12-12",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10527,
+    "name": "CYPRUS INTERNATIONAL 2010",
+    "country": "Cyprus",
+    "start_date": "2010-10-14",
+    "end_date": "2010-10-17",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10538,
+    "name": "Syed Modi India International 2022",
+    "country": "India",
+    "start_date": "2022-01-18",
+    "end_date": "2022-01-23",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10547,
+    "name": "Spanish International 2009",
+    "country": "Spain",
+    "start_date": "2009-05-21",
+    "end_date": "2009-05-24",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10553,
+    "name": "Thailand Open 2008",
+    "country": "Thailand",
+    "start_date": "2008-06-24",
+    "end_date": "2008-06-29",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10559,
+    "name": "Vietnam International Challenge 2019",
+    "country": "Vietnam",
+    "start_date": "2019-04-09",
+    "end_date": "2019-04-14",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10564,
+    "name": "New Zealand Open 2015",
+    "country": "New Zealand",
+    "start_date": "2015-04-28",
+    "end_date": "2015-05-03",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10581,
+    "name": "Korea Open 2012",
+    "country": "Korea",
+    "start_date": "2012-01-03",
+    "end_date": "2012-01-08",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10598,
+    "name": "Super Series Finals 2017",
+    "country": "United Arab Emirates",
+    "start_date": "2017-12-13",
+    "end_date": "2017-12-17",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 10601,
+    "name": "Malaysia Masters 2012",
+    "country": "Malaysia",
+    "start_date": "2012-05-02",
+    "end_date": "2012-05-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10606,
+    "name": "Indonesia Masters 2016",
+    "country": "Indonesia",
+    "start_date": "2016-09-06",
+    "end_date": "2016-09-11",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10607,
+    "name": "Osaka International Challenge 2019",
+    "country": "Japan",
+    "start_date": "2019-04-03",
+    "end_date": "2019-04-07",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10613,
+    "name": "Chinese Taipei Open 2011",
+    "country": "Chinese Taipei",
+    "start_date": "2011-09-06",
+    "end_date": "2011-09-11",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10618,
+    "name": "World Tour Finals 2020",
+    "country": "Thailand",
+    "start_date": "2021-01-27",
+    "end_date": "2021-01-31",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 10623,
+    "name": "Korea Open 2013",
+    "country": "Korea",
+    "start_date": "2013-01-08",
+    "end_date": "2013-01-13",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10640,
+    "name": "Korea Open 2023",
+    "country": "Korea",
+    "start_date": "2023-07-18",
+    "end_date": "2023-07-23",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10646,
+    "name": "Chinese Taipei Open 2013",
+    "country": "Chinese Taipei",
+    "start_date": "2013-09-03",
+    "end_date": "2013-09-08",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10692,
+    "name": "Australian Open 2015",
+    "country": "Australia",
+    "start_date": "2015-05-26",
+    "end_date": "2015-05-31",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10701,
+    "name": "Malaysia Open 2018",
+    "country": "Malaysia",
+    "start_date": "2018-06-26",
+    "end_date": "2018-07-01",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10704,
+    "name": "Chinese Taipei Open 2023",
+    "country": "Chinese Taipei",
+    "start_date": "2023-06-20",
+    "end_date": "2023-06-25",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10710,
+    "name": "Malaysia Masters 2009",
+    "country": "Malaysia",
+    "start_date": "2009-06-23",
+    "end_date": "2009-06-28",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10712,
+    "name": "World Championships 2009",
+    "country": "India",
+    "start_date": "2009-08-10",
+    "end_date": "2009-08-16",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10722,
+    "name": "Canada Open 2023",
+    "country": "Canada",
+    "start_date": "2023-07-04",
+    "end_date": "2023-07-09",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10725,
+    "name": "Chinese Taipei Open 2018",
+    "country": "Chinese Taipei",
+    "start_date": "2018-10-02",
+    "end_date": "2018-10-07",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10740,
+    "name": "French Open 2013",
+    "country": "France",
+    "start_date": "2013-10-22",
+    "end_date": "2013-10-27",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10754,
+    "name": "All England Open 2010",
+    "country": "England",
+    "start_date": "2010-03-09",
+    "end_date": "2010-03-14",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10783,
+    "name": "Bitburger Open 2007",
+    "country": "Germany",
+    "start_date": "2007-10-02",
+    "end_date": "2007-10-07",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10792,
+    "name": "Hong Kong Open 2015",
+    "country": "Hong Kong",
+    "start_date": "2015-11-17",
+    "end_date": "2015-11-22",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10803,
+    "name": "World Championships 2022",
+    "country": "Japan",
+    "start_date": "2022-08-22",
+    "end_date": "2022-08-28",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10806,
+    "name": "Canada Open 2013",
+    "country": "Canada",
+    "start_date": "2013-07-16",
+    "end_date": "2013-07-21",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10863,
+    "name": "Korea International 2009",
+    "country": "Korea",
+    "start_date": "2009-11-24",
+    "end_date": "2009-11-29",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10881,
+    "name": "Korea Grand Prix 2010",
+    "country": "Korea",
+    "start_date": "2010-11-23",
+    "end_date": "2010-11-28",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10882,
+    "name": "French Open 2023",
+    "country": "France",
+    "start_date": "2023-10-24",
+    "end_date": "2023-10-29",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10884,
+    "name": "New Zealand Open 2013",
+    "country": "New Zealand",
+    "start_date": "2013-04-10",
+    "end_date": "2013-04-14",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10895,
+    "name": "Akita Masters 2019",
+    "country": "Japan",
+    "start_date": "2019-08-13",
+    "end_date": "2019-08-18",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10909,
+    "name": "Swiss International 2011",
+    "country": "Switzerland",
+    "start_date": "2011-10-20",
+    "end_date": "2011-10-23",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10911,
+    "name": "Malaysia Open 2024",
+    "country": "Malaysia",
+    "start_date": "2024-01-09",
+    "end_date": "2024-01-14",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10927,
+    "name": "Spanish International 2013",
+    "country": "Spain",
+    "start_date": "2013-05-23",
+    "end_date": "2013-05-26",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10931,
+    "name": "Denmark Open 2017",
+    "country": "Denmark",
+    "start_date": "2017-10-17",
+    "end_date": "2017-10-22",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10936,
+    "name": "German Open 2012",
+    "country": "Germany",
+    "start_date": "2012-02-28",
+    "end_date": "2012-03-04",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10938,
+    "name": "World Championships 2019",
+    "country": "Switzerland",
+    "start_date": "2019-08-19",
+    "end_date": "2019-08-25",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10939,
+    "name": "Indonesia Masters 2020",
+    "country": "Indonesia",
+    "start_date": "2020-01-14",
+    "end_date": "2020-01-19",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10943,
+    "name": "Spain Masters 2020",
+    "country": "Spain",
+    "start_date": "2020-02-18",
+    "end_date": "2020-02-23",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10945,
+    "name": "Super Series Finals 2013",
+    "country": "Malaysia",
+    "start_date": "2013-12-11",
+    "end_date": "2013-12-15",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 10967,
+    "name": "Swiss Open 2022",
+    "country": "Switzerland",
+    "start_date": "2022-03-22",
+    "end_date": "2022-03-27",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10982,
+    "name": "Indonesia Open 2018",
+    "country": "Indonesia",
+    "start_date": "2018-07-03",
+    "end_date": "2018-07-08",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 10998,
+    "name": "Olympic Games 2024",
+    "country": "France",
+    "start_date": "2024-07-27",
+    "end_date": "2024-08-05",
+    "ranking_level": "OG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 1,
+    "main_rounds": [
+      1
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11003,
+    "name": "Singapore Satellite 2008",
+    "country": "Singapore",
+    "start_date": "2008-05-21",
+    "end_date": "2008-05-24",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11018,
+    "name": "THE SMILING FISH International Challenge 2008",
+    "country": "Thailand",
+    "start_date": "2008-05-01",
+    "end_date": "2008-05-06",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11020,
+    "name": "CYPRUS INTERNATIONAL 2009",
+    "country": "Cyprus",
+    "start_date": "2009-10-08",
+    "end_date": "2009-10-11",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11024,
+    "name": "China Masters 2007",
+    "country": "China",
+    "start_date": "2007-07-10",
+    "end_date": "2007-07-15",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11030,
+    "name": "French Open 2018",
+    "country": "France",
+    "start_date": "2018-10-23",
+    "end_date": "2018-10-28",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11044,
+    "name": "Italian International 2013",
+    "country": "Italy",
+    "start_date": "2013-12-10",
+    "end_date": "2013-12-13",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11068,
+    "name": "World Tour Finals 2021",
+    "country": "Indonesia",
+    "start_date": "2021-12-01",
+    "end_date": "2021-12-05",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 11073,
+    "name": "Italian International 2011",
+    "country": "Italy",
+    "start_date": "2011-12-13",
+    "end_date": "2011-12-16",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11077,
+    "name": "German Open 2016",
+    "country": "Germany",
+    "start_date": "2016-03-01",
+    "end_date": "2016-03-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11086,
+    "name": "World Tour Finals 2023",
+    "country": "China",
+    "start_date": "2023-12-13",
+    "end_date": "2023-12-17",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 11107,
+    "name": "Denmark Open 2011",
+    "country": "Denmark",
+    "start_date": "2011-10-18",
+    "end_date": "2011-10-23",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11112,
+    "name": "HYLO Open 2021",
+    "country": "Germany",
+    "start_date": "2021-11-02",
+    "end_date": "2021-11-07",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11117,
+    "name": "Spanish International 2011",
+    "country": "Spain",
+    "start_date": "2011-05-19",
+    "end_date": "2011-05-22",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11126,
+    "name": "Syed Modi India International 2018",
+    "country": "India",
+    "start_date": "2018-11-20",
+    "end_date": "2018-11-25",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11131,
+    "name": "Denmark Open 2009",
+    "country": "Denmark",
+    "start_date": "2009-10-20",
+    "end_date": "2009-10-25",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11149,
+    "name": "Hong Kong Open 2009",
+    "country": "Hong Kong",
+    "start_date": "2009-11-09",
+    "end_date": "2009-11-15",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11155,
+    "name": "Scottish Open 2013",
+    "country": "Scotland",
+    "start_date": "2013-11-20",
+    "end_date": "2013-11-24",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11159,
+    "name": "Macau Open 2009",
+    "country": "Macau China",
+    "start_date": "2009-08-18",
+    "end_date": "2009-08-23",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11167,
+    "name": "Japan Open 2019",
+    "country": "Japan",
+    "start_date": "2019-07-23",
+    "end_date": "2019-07-28",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11179,
+    "name": "Denmark Open 2010",
+    "country": "Denmark",
+    "start_date": "2010-10-26",
+    "end_date": "2010-10-31",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11190,
+    "name": "All England Open 2018",
+    "country": "England",
+    "start_date": "2018-03-14",
+    "end_date": "2018-03-18",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11198,
+    "name": "Bitburger Open 2014",
+    "country": "Germany",
+    "start_date": "2014-10-28",
+    "end_date": "2014-11-02",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11208,
+    "name": "US Open 2013",
+    "country": "United States",
+    "start_date": "2013-07-08",
+    "end_date": "2013-07-13",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11214,
+    "name": "Singapore Open 2024",
+    "country": "Singapore",
+    "start_date": "2024-05-28",
+    "end_date": "2024-06-02",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11222,
+    "name": "Malaysia Open 2017",
+    "country": "Malaysia",
+    "start_date": "2017-04-04",
+    "end_date": "2017-04-09",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11239,
+    "name": "Malaysia Open 2016",
+    "country": "Malaysia",
+    "start_date": "2016-04-05",
+    "end_date": "2016-04-10",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11246,
+    "name": "All England Open 2008",
+    "country": "England",
+    "start_date": "2008-03-04",
+    "end_date": "2008-03-09",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11261,
+    "name": "German Open 2022",
+    "country": "Germany",
+    "start_date": "2022-03-08",
+    "end_date": "2022-03-13",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11269,
+    "name": "French Open 2009",
+    "country": "France",
+    "start_date": "2009-10-27",
+    "end_date": "2009-11-01",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11275,
+    "name": "Syed Modi India International 2016",
+    "country": "India",
+    "start_date": "2016-01-26",
+    "end_date": "2016-01-31",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11277,
+    "name": "Italian International 2019",
+    "country": "Italy",
+    "start_date": "2019-12-12",
+    "end_date": "2019-12-15",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11289,
+    "name": "Macau Open 2011",
+    "country": "Macau China",
+    "start_date": "2011-11-29",
+    "end_date": "2011-12-04",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11323,
+    "name": "Denmark Open 2007",
+    "country": "Denmark",
+    "start_date": "2007-10-23",
+    "end_date": "2007-10-28",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11325,
+    "name": "German Open 2015",
+    "country": "Germany",
+    "start_date": "2015-02-24",
+    "end_date": "2015-03-01",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11351,
+    "name": "French Open 2014",
+    "country": "France",
+    "start_date": "2014-10-21",
+    "end_date": "2014-10-26",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11352,
+    "name": "Malaysia Masters 2019",
+    "country": "Malaysia",
+    "start_date": "2019-01-15",
+    "end_date": "2019-01-20",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11359,
+    "name": "Singapore International 2011",
+    "country": "Singapore",
+    "start_date": "2011-07-27",
+    "end_date": "2011-07-30",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11361,
+    "name": "Syed Modi India International 2017",
+    "country": "India",
+    "start_date": "2017-01-24",
+    "end_date": "2017-01-29",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11369,
+    "name": "Morocco International 2011",
+    "country": "Morocco",
+    "start_date": "2011-05-13",
+    "end_date": "2011-05-15",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11371,
+    "name": "All England Open 2021",
+    "country": "England",
+    "start_date": "2021-03-17",
+    "end_date": "2021-03-21",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11372,
+    "name": "Swiss Open 2019",
+    "country": "Switzerland",
+    "start_date": "2019-03-12",
+    "end_date": "2019-03-17",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11377,
+    "name": "Indonesia Masters 2022",
+    "country": "Indonesia",
+    "start_date": "2022-06-07",
+    "end_date": "2022-06-12",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11401,
+    "name": "Macau Open 2013",
+    "country": "Macau China",
+    "start_date": "2013-11-26",
+    "end_date": "2013-12-01",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11407,
+    "name": "Welsh International 2010",
+    "country": "Wales",
+    "start_date": "2010-12-02",
+    "end_date": "2010-12-05",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11412,
+    "name": "Thailand Open 2020",
+    "country": "Thailand",
+    "start_date": "2021-01-12",
+    "end_date": "2021-01-17",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11425,
+    "name": "Australian Open 2019",
+    "country": "Australia",
+    "start_date": "2019-06-04",
+    "end_date": "2019-06-09",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11435,
+    "name": "London Grand Prix Gold 2013",
+    "country": "England",
+    "start_date": "2013-10-01",
+    "end_date": "2013-10-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11443,
+    "name": "Denmark Open 2020",
+    "country": "Denmark",
+    "start_date": "2020-10-13",
+    "end_date": "2020-10-18",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11466,
+    "name": "Swedish Masters 2013",
+    "country": "Sweden",
+    "start_date": "2013-01-17",
+    "end_date": "2013-01-20",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11467,
+    "name": "Singapore International 2012",
+    "country": "Singapore",
+    "start_date": "2012-08-14",
+    "end_date": "2012-08-18",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11482,
+    "name": "Spain Masters 2023",
+    "country": "Spain",
+    "start_date": "2023-03-28",
+    "end_date": "2023-04-02",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11489,
+    "name": "Swiss Open 2023",
+    "country": "Switzerland",
+    "start_date": "2023-03-21",
+    "end_date": "2023-03-26",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11502,
+    "name": "Macau Open 2007",
+    "country": "Macau China",
+    "start_date": "2007-10-02",
+    "end_date": "2007-10-07",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11513,
+    "name": "Vietnam International Challenge 2009",
+    "country": "Vietnam",
+    "start_date": "2009-04-21",
+    "end_date": "2009-04-26",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11519,
+    "name": "China Masters 2011",
+    "country": "China",
+    "start_date": "2011-09-13",
+    "end_date": "2011-09-18",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11520,
+    "name": "India Open 2014",
+    "country": "India",
+    "start_date": "2014-04-01",
+    "end_date": "2014-04-06",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11528,
+    "name": "Korea Open 2017",
+    "country": "Korea",
+    "start_date": "2017-09-12",
+    "end_date": "2017-09-17",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11538,
+    "name": "Swiss Open 2010",
+    "country": "Switzerland",
+    "start_date": "2010-03-16",
+    "end_date": "2010-03-21",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11539,
+    "name": "Vietnam International Challenge 2007",
+    "country": "Vietnam",
+    "start_date": "2007-05-23",
+    "end_date": "2007-05-27",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11545,
+    "name": "Denmark Open 2013",
+    "country": "Denmark",
+    "start_date": "2013-10-15",
+    "end_date": "2013-10-20",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11564,
+    "name": "Korea Open 2007",
+    "country": "Korea",
+    "start_date": "2007-01-23",
+    "end_date": "2007-01-28",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11574,
+    "name": "Hong Kong Open 2019",
+    "country": "Hong Kong",
+    "start_date": "2019-11-12",
+    "end_date": "2019-11-17",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11596,
+    "name": "Chinese Taipei Open 2010",
+    "country": "Chinese Taipei",
+    "start_date": "2010-08-03",
+    "end_date": "2010-08-08",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11597,
+    "name": "Italian International 2010",
+    "country": "Italy",
+    "start_date": "2010-12-14",
+    "end_date": "2010-12-17",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11608,
+    "name": "All England Open 2013",
+    "country": "England",
+    "start_date": "2013-03-05",
+    "end_date": "2013-03-10",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11609,
+    "name": "Spanish International 2012",
+    "country": "Spain",
+    "start_date": "2012-05-17",
+    "end_date": "2012-05-20",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11610,
+    "name": "Malaysia Open 2012",
+    "country": "Malaysia",
+    "start_date": "2012-01-10",
+    "end_date": "2012-01-15",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11616,
+    "name": "SaarLorLux Open 2020",
+    "country": "Saarland",
+    "start_date": "2020-10-27",
+    "end_date": "2020-11-01",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11621,
+    "name": "Korea Open 2019",
+    "country": "Korea",
+    "start_date": "2019-09-24",
+    "end_date": "2019-09-29",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11623,
+    "name": "Swiss Open 2014",
+    "country": "Switzerland",
+    "start_date": "2014-03-11",
+    "end_date": "2014-03-16",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11628,
+    "name": "Macau Open 2018",
+    "country": "Macau China",
+    "start_date": "2018-10-30",
+    "end_date": "2018-11-04",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11629,
+    "name": "Hyderabad Open 2019",
+    "country": "India",
+    "start_date": "2019-08-06",
+    "end_date": "2019-08-11",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11655,
+    "name": "Bitburger Open 2011",
+    "country": "Germany",
+    "start_date": "2011-11-01",
+    "end_date": "2011-11-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11665,
+    "name": "Osaka International Challenge 2012",
+    "country": "Japan",
+    "start_date": "2012-04-04",
+    "end_date": "2012-04-08",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11670,
+    "name": "Syed Modi India International 2014",
+    "country": "India",
+    "start_date": "2014-01-21",
+    "end_date": "2014-01-26",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11671,
+    "name": "Thailand Open 2022",
+    "country": "Thailand",
+    "start_date": "2022-05-17",
+    "end_date": "2022-05-22",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11675,
+    "name": "India Open 2023",
+    "country": "India",
+    "start_date": "2023-01-17",
+    "end_date": "2023-01-22",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11692,
+    "name": "Singapore Open 2007",
+    "country": "Singapore",
+    "start_date": "2007-05-01",
+    "end_date": "2007-05-06",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11695,
+    "name": "Malaysia Open 2008",
+    "country": "Malaysia",
+    "start_date": "2008-01-15",
+    "end_date": "2008-01-20",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11696,
+    "name": "All England Open 2012",
+    "country": "England",
+    "start_date": "2012-03-06",
+    "end_date": "2012-03-11",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11699,
+    "name": "Arctic Open 2023",
+    "country": "Finland",
+    "start_date": "2023-10-10",
+    "end_date": "2023-10-15",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11704,
+    "name": "US Open 2023",
+    "country": "United States",
+    "start_date": "2023-07-11",
+    "end_date": "2023-07-16",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11719,
+    "name": "Indonesia Open 2019",
+    "country": "Indonesia",
+    "start_date": "2019-07-16",
+    "end_date": "2019-07-21",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11727,
+    "name": "Syed Modi India International 2012",
+    "country": "India",
+    "start_date": "2012-12-18",
+    "end_date": "2012-12-23",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11752,
+    "name": "Malaysia Masters 2016",
+    "country": "Malaysia",
+    "start_date": "2016-01-19",
+    "end_date": "2016-01-24",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11753,
+    "name": "Philippines Open 2007",
+    "country": "Philippines",
+    "start_date": "2007-07-17",
+    "end_date": "2007-07-22",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11756,
+    "name": "All England Open 2015",
+    "country": "England",
+    "start_date": "2015-03-03",
+    "end_date": "2015-03-08",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11769,
+    "name": "Japan Open 2016",
+    "country": "Japan",
+    "start_date": "2016-09-20",
+    "end_date": "2016-09-25",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11772,
+    "name": "Malaysia Masters 2022",
+    "country": "Malaysia",
+    "start_date": "2022-07-05",
+    "end_date": "2022-07-10",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11791,
+    "name": "Chinese Taipei Open 2014",
+    "country": "Chinese Taipei",
+    "start_date": "2014-07-15",
+    "end_date": "2014-07-20",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11796,
+    "name": "Korea Grand Prix Gold 2011",
+    "country": "Korea",
+    "start_date": "2011-12-06",
+    "end_date": "2011-12-11",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11797,
+    "name": "Irish Open 2009",
+    "country": "Ireland",
+    "start_date": "2009-12-03",
+    "end_date": "2009-12-06",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11803,
+    "name": "All England Open 2022",
+    "country": "England",
+    "start_date": "2022-03-16",
+    "end_date": "2022-03-20",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11835,
+    "name": "Vietnam Open 2009",
+    "country": "Vietnam",
+    "start_date": "2009-10-06",
+    "end_date": "2009-10-11",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11837,
+    "name": "Swiss Open 2017",
+    "country": "Switzerland",
+    "start_date": "2017-03-14",
+    "end_date": "2017-03-19",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11855,
+    "name": "Thailand Open 2021",
+    "country": "Thailand",
+    "start_date": "2021-01-19",
+    "end_date": "2021-01-24",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11860,
+    "name": "Denmark Open 2012",
+    "country": "Denmark",
+    "start_date": "2012-10-16",
+    "end_date": "2012-10-21",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11861,
+    "name": "Lingshui China Masters 2019",
+    "country": "China",
+    "start_date": "2019-03-12",
+    "end_date": "2019-03-17",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11871,
+    "name": "India Open 2011",
+    "country": "India",
+    "start_date": "2011-04-26",
+    "end_date": "2011-05-01",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11878,
+    "name": "Indonesia Open 2007",
+    "country": "Indonesia",
+    "start_date": "2007-05-07",
+    "end_date": "2007-05-13",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11884,
+    "name": "Super Series Finals 2010",
+    "country": "Chinese Taipei",
+    "start_date": "2011-01-05",
+    "end_date": "2011-01-09",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 11927,
+    "name": "China Masters 2008",
+    "country": "China",
+    "start_date": "2008-09-23",
+    "end_date": "2008-09-28",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11953,
+    "name": "German Open 2024",
+    "country": "Germany",
+    "start_date": "2024-02-27",
+    "end_date": "2024-03-03",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11957,
+    "name": "Thailand Open 2012",
+    "country": "Thailand",
+    "start_date": "2012-06-05",
+    "end_date": "2012-06-10",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11961,
+    "name": "Malaysia Open 2015",
+    "country": "Malaysia",
+    "start_date": "2015-03-31",
+    "end_date": "2015-04-05",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11967,
+    "name": "World Tour Finals 2018",
+    "country": "China",
+    "start_date": "2018-12-12",
+    "end_date": "2018-12-16",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 11991,
+    "name": "Thailand Masters 2016",
+    "country": "Thailand",
+    "start_date": "2016-02-08",
+    "end_date": "2016-02-13",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 11995,
+    "name": "Polish Open 2011",
+    "country": "Poland",
+    "start_date": "2011-03-24",
+    "end_date": "2011-03-27",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12004,
+    "name": "German Open 2013",
+    "country": "Germany",
+    "start_date": "2013-02-26",
+    "end_date": "2013-03-03",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12005,
+    "name": "Singapore Open 2015",
+    "country": "Singapore",
+    "start_date": "2015-04-07",
+    "end_date": "2015-04-12",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12021,
+    "name": "Malaysia Masters 2020",
+    "country": "Malaysia",
+    "start_date": "2020-01-07",
+    "end_date": "2020-01-12",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12025,
+    "name": "Hong Kong Open 2007",
+    "country": "Hong Kong",
+    "start_date": "2007-11-26",
+    "end_date": "2007-12-02",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12027,
+    "name": "THE SMILING FISH International Challenge 2009",
+    "country": "Thailand",
+    "start_date": "2009-04-28",
+    "end_date": "2009-05-03",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12029,
+    "name": "India Open 2012",
+    "country": "India",
+    "start_date": "2012-04-24",
+    "end_date": "2012-04-29",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12038,
+    "name": "Denmark Open 2019",
+    "country": "Denmark",
+    "start_date": "2019-10-15",
+    "end_date": "2019-10-20",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12047,
+    "name": "German Open 2009",
+    "country": "Germany",
+    "start_date": "2009-02-24",
+    "end_date": "2009-03-01",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12057,
+    "name": "Thailand Open 2023",
+    "country": "Thailand",
+    "start_date": "2023-05-30",
+    "end_date": "2023-06-04",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12085,
+    "name": "Swiss Open 2012",
+    "country": "Switzerland",
+    "start_date": "2012-03-13",
+    "end_date": "2012-03-18",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12111,
+    "name": "Indonesia Masters 2024",
+    "country": "Indonesia",
+    "start_date": "2024-01-23",
+    "end_date": "2024-01-28",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12121,
+    "name": "Chinese Taipei Open 2022",
+    "country": "Chinese Taipei",
+    "start_date": "2022-07-19",
+    "end_date": "2022-07-24",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12144,
+    "name": "German Open 2018",
+    "country": "Germany",
+    "start_date": "2018-03-06",
+    "end_date": "2018-03-11",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12178,
+    "name": "French Open 2012",
+    "country": "France",
+    "start_date": "2012-10-23",
+    "end_date": "2012-10-28",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12186,
+    "name": "Canada Open 2019",
+    "country": "Canada",
+    "start_date": "2019-07-02",
+    "end_date": "2019-07-07",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12199,
+    "name": "Spanish International 2014",
+    "country": "Spain",
+    "start_date": "2014-05-22",
+    "end_date": "2014-05-25",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12214,
+    "name": "Japan Open 2022",
+    "country": "Japan",
+    "start_date": "2022-08-30",
+    "end_date": "2022-09-04",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12215,
+    "name": "Singapore Open 2016",
+    "country": "Singapore",
+    "start_date": "2016-04-12",
+    "end_date": "2016-04-17",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12232,
+    "name": "Indonesia Open 2011",
+    "country": "Indonesia",
+    "start_date": "2011-06-21",
+    "end_date": "2011-06-26",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12235,
+    "name": "China Masters 2023",
+    "country": "China",
+    "start_date": "2023-11-21",
+    "end_date": "2023-11-26",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12246,
+    "name": "Indonesia Open 2012",
+    "country": "Indonesia",
+    "start_date": "2012-06-12",
+    "end_date": "2012-06-17",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12260,
+    "name": "Osaka International Challenge 2018",
+    "country": "Japan",
+    "start_date": "2018-04-04",
+    "end_date": "2018-04-08",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12271,
+    "name": "Dutch Open 2011",
+    "country": "Netherlands",
+    "start_date": "2011-10-11",
+    "end_date": "2011-10-16",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12274,
+    "name": "Olympic Games 2021",
+    "country": "Japan",
+    "start_date": "2021-07-24",
+    "end_date": "2021-08-02",
+    "ranking_level": "OG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 1,
+    "main_rounds": [
+      1
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12284,
+    "name": "Open Volant d'Or de Toulouse 2009",
+    "country": "France",
+    "start_date": "2009-05-28",
+    "end_date": "2009-05-31",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12286,
+    "name": "Canada Open 2022",
+    "country": "Canada",
+    "start_date": "2022-09-27",
+    "end_date": "2022-10-02",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12287,
+    "name": "US Open 2011",
+    "country": "United States",
+    "start_date": "2011-07-11",
+    "end_date": "2011-07-16",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12291,
+    "name": "All England Open 2024",
+    "country": "England",
+    "start_date": "2024-03-12",
+    "end_date": "2024-03-17",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12316,
+    "name": "French Open 2016",
+    "country": "France",
+    "start_date": "2016-10-25",
+    "end_date": "2016-10-30",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12320,
+    "name": "China Masters 2016",
+    "country": "China",
+    "start_date": "2016-04-19",
+    "end_date": "2016-04-24",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12342,
+    "name": "French Open 2011",
+    "country": "France",
+    "start_date": "2011-10-25",
+    "end_date": "2011-10-30",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12343,
+    "name": "Osaka International Challenge 2013",
+    "country": "Japan",
+    "start_date": "2013-04-03",
+    "end_date": "2013-04-07",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12372,
+    "name": "Denmark Open 2008",
+    "country": "Denmark",
+    "start_date": "2008-10-21",
+    "end_date": "2008-10-26",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12395,
+    "name": "Denmark Open 2016",
+    "country": "Denmark",
+    "start_date": "2016-10-18",
+    "end_date": "2016-10-23",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12414,
+    "name": "Indonesia Grand Prix 2010",
+    "country": "Indonesia",
+    "start_date": "2010-10-12",
+    "end_date": "2010-10-17",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12423,
+    "name": "Indonesia Open 2021",
+    "country": "Indonesia",
+    "start_date": "2021-11-23",
+    "end_date": "2021-11-28",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12437,
+    "name": "Malaysia Open 2022",
+    "country": "Malaysia",
+    "start_date": "2022-06-28",
+    "end_date": "2022-07-03",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12444,
+    "name": "India Open 2013",
+    "country": "India",
+    "start_date": "2013-04-23",
+    "end_date": "2013-04-28",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12451,
+    "name": "Vietnam Open 2011",
+    "country": "Vietnam",
+    "start_date": "2011-08-22",
+    "end_date": "2011-08-28",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12455,
+    "name": "Bitburger Open 2010",
+    "country": "Germany",
+    "start_date": "2010-08-31",
+    "end_date": "2010-09-05",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12466,
+    "name": "Japan Open 2011",
+    "country": "Japan",
+    "start_date": "2011-09-20",
+    "end_date": "2011-09-25",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12468,
+    "name": "Korea Open 2022",
+    "country": "Korea",
+    "start_date": "2022-04-05",
+    "end_date": "2022-04-10",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12507,
+    "name": "India Open 2022",
+    "country": "India",
+    "start_date": "2022-01-11",
+    "end_date": "2022-01-16",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12511,
+    "name": "China Open 2008",
+    "country": "China",
+    "start_date": "2008-11-18",
+    "end_date": "2008-11-23",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12514,
+    "name": "Indonesia Open 2022",
+    "country": "Indonesia",
+    "start_date": "2022-06-14",
+    "end_date": "2022-06-19",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12545,
+    "name": "Irish Open 2011",
+    "country": "Ireland",
+    "start_date": "2011-12-08",
+    "end_date": "2011-12-11",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12559,
+    "name": "Super Series Finals 2012",
+    "country": "China",
+    "start_date": "2012-12-12",
+    "end_date": "2012-12-16",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 12561,
+    "name": "US Open 2018",
+    "country": "United States",
+    "start_date": "2018-06-12",
+    "end_date": "2018-06-17",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12574,
+    "name": "All England Open 2019",
+    "country": "Great Britain",
+    "start_date": "2019-03-06",
+    "end_date": "2019-03-10",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12578,
+    "name": "German Open 2017",
+    "country": "Germany",
+    "start_date": "2017-02-28",
+    "end_date": "2017-03-05",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12586,
+    "name": "Vietnam Open 2013",
+    "country": "Vietnam",
+    "start_date": "2013-12-02",
+    "end_date": "2013-12-08",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12590,
+    "name": "French Open 2015",
+    "country": "France",
+    "start_date": "2015-10-20",
+    "end_date": "2015-10-25",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12605,
+    "name": "Hong Kong Open 2016",
+    "country": "Hong Kong",
+    "start_date": "2016-11-22",
+    "end_date": "2016-11-27",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12624,
+    "name": "French Open 2017",
+    "country": "France",
+    "start_date": "2017-10-24",
+    "end_date": "2017-10-29",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12625,
+    "name": "World Tour Finals 2019",
+    "country": "China",
+    "start_date": "2019-12-11",
+    "end_date": "2019-12-15",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 12631,
+    "name": "Chinese Taipei Open 2015",
+    "country": "Chinese Taipei",
+    "start_date": "2015-07-14",
+    "end_date": "2015-07-19",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12637,
+    "name": "India Open 2017",
+    "country": "India",
+    "start_date": "2017-03-28",
+    "end_date": "2017-04-02",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12646,
+    "name": "Indonesia Masters 2018",
+    "country": "Indonesia",
+    "start_date": "2018-01-23",
+    "end_date": "2018-01-28",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12652,
+    "name": "China Open 2010",
+    "country": "China",
+    "start_date": "2010-11-30",
+    "end_date": "2010-12-05",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12664,
+    "name": "Japan Open 2015",
+    "country": "Japan",
+    "start_date": "2015-09-08",
+    "end_date": "2015-09-13",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12682,
+    "name": "New Zealand Open 2017",
+    "country": "New Zealand",
+    "start_date": "2017-08-01",
+    "end_date": "2017-08-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12683,
+    "name": "Japan Open 2017",
+    "country": "Japan",
+    "start_date": "2017-09-19",
+    "end_date": "2017-09-24",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12697,
+    "name": "German Open 2008",
+    "country": "Germany",
+    "start_date": "2008-02-26",
+    "end_date": "2008-03-02",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12698,
+    "name": "Thailand Open 2019",
+    "country": "Thailand",
+    "start_date": "2019-07-30",
+    "end_date": "2019-08-04",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12709,
+    "name": "New Zealand Open 2011",
+    "country": "New Zealand",
+    "start_date": "2011-03-30",
+    "end_date": "2011-04-03",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12725,
+    "name": "Olympic Games 2016",
+    "country": "Brazil",
+    "start_date": "2016-08-11",
+    "end_date": "2016-08-20",
+    "ranking_level": "OG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 1,
+    "main_rounds": [
+      1
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12730,
+    "name": "World Championships 2013",
+    "country": "China",
+    "start_date": "2013-08-05",
+    "end_date": "2013-08-11",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12736,
+    "name": "Swiss Open 2024",
+    "country": "Switzerland",
+    "start_date": "2024-03-19",
+    "end_date": "2024-03-24",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12738,
+    "name": "Indonesia Open 2008",
+    "country": "Indonesia",
+    "start_date": "2008-06-17",
+    "end_date": "2008-06-22",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12740,
+    "name": "Denmark Open 2021",
+    "country": "Denmark",
+    "start_date": "2021-10-19",
+    "end_date": "2021-10-24",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12744,
+    "name": "Spain Masters 2019",
+    "country": "Spain",
+    "start_date": "2019-02-19",
+    "end_date": "2019-02-24",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12748,
+    "name": "All England Open 2016",
+    "country": "England",
+    "start_date": "2016-03-08",
+    "end_date": "2016-03-13",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12750,
+    "name": "China Open 2023",
+    "country": "China",
+    "start_date": "2023-09-05",
+    "end_date": "2023-09-10",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12756,
+    "name": "India Open 2008",
+    "country": "India",
+    "start_date": "2008-04-01",
+    "end_date": "2008-04-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12757,
+    "name": "Australian Open 2017",
+    "country": "Australia",
+    "start_date": "2017-06-20",
+    "end_date": "2017-06-25",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12758,
+    "name": "Japan Open 2008",
+    "country": "Japan",
+    "start_date": "2008-09-16",
+    "end_date": "2008-09-21",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12777,
+    "name": "Hong Kong Open 2023",
+    "country": "Hong Kong",
+    "start_date": "2023-09-12",
+    "end_date": "2023-09-17",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12789,
+    "name": "Thailand Open 2017",
+    "country": "Thailand",
+    "start_date": "2017-05-30",
+    "end_date": "2017-06-04",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12793,
+    "name": "Irish Open 2010",
+    "country": "Ireland",
+    "start_date": "2010-12-09",
+    "end_date": "2010-12-12",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12806,
+    "name": "Scottish Open 2012",
+    "country": "Scotland",
+    "start_date": "2012-11-21",
+    "end_date": "2012-11-25",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12815,
+    "name": "China Open 2018",
+    "country": "China",
+    "start_date": "2018-09-18",
+    "end_date": "2018-09-23",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12825,
+    "name": "Hong Kong Open 2008",
+    "country": "Hong Kong",
+    "start_date": "2008-11-24",
+    "end_date": "2008-11-30",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12828,
+    "name": "World Tour Finals 2022",
+    "country": "Thailand",
+    "start_date": "2022-12-07",
+    "end_date": "2022-12-11",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 12830,
+    "name": "French Open 2010",
+    "country": "France",
+    "start_date": "2010-11-02",
+    "end_date": "2010-11-07",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12836,
+    "name": "Thailand Masters 2024",
+    "country": "Thailand",
+    "start_date": "2024-01-30",
+    "end_date": "2024-02-04",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12881,
+    "name": "World Championships 2007",
+    "country": "Malaysia",
+    "start_date": "2007-08-13",
+    "end_date": "2007-08-19",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12883,
+    "name": "Singapore Open 2012",
+    "country": "Singapore",
+    "start_date": "2012-06-19",
+    "end_date": "2012-06-24",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12896,
+    "name": "New Zealand Open 2016",
+    "country": "New Zealand",
+    "start_date": "2016-03-22",
+    "end_date": "2016-03-27",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12932,
+    "name": "Denmark Open 2018",
+    "country": "Denmark",
+    "start_date": "2018-10-16",
+    "end_date": "2018-10-21",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12936,
+    "name": "Syed Modi India International 2015",
+    "country": "India",
+    "start_date": "2015-01-20",
+    "end_date": "2015-01-25",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12937,
+    "name": "Hong Kong Open 2013",
+    "country": "Hong Kong",
+    "start_date": "2013-11-19",
+    "end_date": "2013-11-24",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12940,
+    "name": "World Championships 2023",
+    "country": "Denmark",
+    "start_date": "2023-08-21",
+    "end_date": "2023-08-27",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12951,
+    "name": "Vietnam Open 2010",
+    "country": "Vietnam",
+    "start_date": "2010-10-05",
+    "end_date": "2010-10-10",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12966,
+    "name": "Indonesia Open 2017",
+    "country": "Indonesia",
+    "start_date": "2017-06-12",
+    "end_date": "2017-06-18",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12967,
+    "name": "All England Open 2009",
+    "country": "England",
+    "start_date": "2009-03-03",
+    "end_date": "2009-03-08",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12974,
+    "name": "Uganda International 2010",
+    "country": "Uganda",
+    "start_date": "2010-02-26",
+    "end_date": "2010-02-28",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12983,
+    "name": "Singapore Open 2009",
+    "country": "Singapore",
+    "start_date": "2009-06-09",
+    "end_date": "2009-06-14",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12988,
+    "name": "US Open 2015",
+    "country": "United States",
+    "start_date": "2015-06-16",
+    "end_date": "2015-06-21",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 12991,
+    "name": "India International Challenge 2011",
+    "country": "India",
+    "start_date": "2011-12-14",
+    "end_date": "2011-12-18",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13001,
+    "name": "Thailand Open 2011",
+    "country": "Thailand",
+    "start_date": "2011-06-07",
+    "end_date": "2011-06-12",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13002,
+    "name": "China Masters 2010",
+    "country": "China",
+    "start_date": "2010-09-14",
+    "end_date": "2010-09-19",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13007,
+    "name": "Hong Kong Open 2011",
+    "country": "Hong Kong",
+    "start_date": "2011-11-15",
+    "end_date": "2011-11-20",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13008,
+    "name": "China Open 2009",
+    "country": "China",
+    "start_date": "2009-11-17",
+    "end_date": "2009-11-22",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13018,
+    "name": "Canada Open 2018",
+    "country": "Canada",
+    "start_date": "2018-06-19",
+    "end_date": "2018-06-24",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13040,
+    "name": "Japan Open 2024",
+    "country": "Japan",
+    "start_date": "2024-08-20",
+    "end_date": "2024-08-25",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13045,
+    "name": "Korea Masters 2022",
+    "country": "Korea",
+    "start_date": "2022-04-12",
+    "end_date": "2022-04-17",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13049,
+    "name": "Indonesia Open 2009",
+    "country": "Indonesia",
+    "start_date": "2009-06-16",
+    "end_date": "2009-06-21",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13058,
+    "name": "Vietnam Open 2019",
+    "country": "Vietnam",
+    "start_date": "2019-09-10",
+    "end_date": "2019-09-15",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13064,
+    "name": "Indonesia Masters 2015",
+    "country": "Indonesia",
+    "start_date": "2015-12-01",
+    "end_date": "2015-12-06",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13067,
+    "name": "Indonesia Open 2013",
+    "country": "Indonesia",
+    "start_date": "2013-06-10",
+    "end_date": "2013-06-16",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13070,
+    "name": "World Championships 2018",
+    "country": "China",
+    "start_date": "2018-07-30",
+    "end_date": "2018-08-05",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13075,
+    "name": "Korea Open 2015",
+    "country": "Korea",
+    "start_date": "2015-09-15",
+    "end_date": "2015-09-20",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13076,
+    "name": "Chinese Taipei Open 2019",
+    "country": "Chinese Taipei",
+    "start_date": "2019-09-03",
+    "end_date": "2019-09-08",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13079,
+    "name": "Australian Open 2016",
+    "country": "Australia",
+    "start_date": "2016-06-07",
+    "end_date": "2016-06-12",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13083,
+    "name": "Singapore Open 2010",
+    "country": "Singapore",
+    "start_date": "2010-06-15",
+    "end_date": "2010-06-20",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13096,
+    "name": "Malaysia Masters 2023",
+    "country": "Malaysia",
+    "start_date": "2023-05-23",
+    "end_date": "2023-05-28",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13108,
+    "name": "Malaysia Masters 2018",
+    "country": "Malaysia",
+    "start_date": "2018-01-16",
+    "end_date": "2018-01-21",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13110,
+    "name": "French Open 2022",
+    "country": "France",
+    "start_date": "2022-10-25",
+    "end_date": "2022-10-30",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13120,
+    "name": "Indonesia Masters 2021",
+    "country": "Indonesia",
+    "start_date": "2021-11-16",
+    "end_date": "2021-11-21",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13121,
+    "name": "Indonesia Masters 2023",
+    "country": "Indonesia",
+    "start_date": "2023-01-24",
+    "end_date": "2023-01-29",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13132,
+    "name": "Korea Open 2008",
+    "country": "Korea",
+    "start_date": "2008-01-22",
+    "end_date": "2008-01-27",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13140,
+    "name": "Thailand Open 2024",
+    "country": "Thailand",
+    "start_date": "2024-05-14",
+    "end_date": "2024-05-19",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13154,
+    "name": "Thailand Open 2013",
+    "country": "Thailand",
+    "start_date": "2013-06-04",
+    "end_date": "2013-06-09",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13170,
+    "name": "Australian Open 2014",
+    "country": "Australia",
+    "start_date": "2014-06-24",
+    "end_date": "2014-06-29",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13201,
+    "name": "Malaysia Masters 2015",
+    "country": "Sarawak",
+    "start_date": "2015-01-13",
+    "end_date": "2015-01-18",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13203,
+    "name": "Korea Open 2010",
+    "country": "Korea",
+    "start_date": "2010-01-12",
+    "end_date": "2010-01-17",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13223,
+    "name": "Korea Open 2016",
+    "country": "Korea",
+    "start_date": "2016-09-27",
+    "end_date": "2016-10-02",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13230,
+    "name": "Swiss Open 2021",
+    "country": "Switzerland",
+    "start_date": "2021-03-02",
+    "end_date": "2021-03-07",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13231,
+    "name": "Swiss Open 2015",
+    "country": "Switzerland",
+    "start_date": "2015-03-10",
+    "end_date": "2015-03-15",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13232,
+    "name": "World Championships 2011",
+    "country": "England",
+    "start_date": "2011-08-08",
+    "end_date": "2011-08-14",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13249,
+    "name": "Hong Kong Open 2014",
+    "country": "Hong Kong",
+    "start_date": "2014-11-18",
+    "end_date": "2014-11-23",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13258,
+    "name": "Singapore Open 2017",
+    "country": "Singapore",
+    "start_date": "2017-04-11",
+    "end_date": "2017-04-16",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13265,
+    "name": "Laos Future Series 2008",
+    "country": "Lao",
+    "start_date": "2008-04-23",
+    "end_date": "2008-04-27",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 1,
+    "main_rounds": [
+      1
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13274,
+    "name": "Australian Open 2022",
+    "country": "Australia",
+    "start_date": "2022-11-15",
+    "end_date": "2022-11-20",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13333,
+    "name": "Canada Open 2011",
+    "country": "Canada",
+    "start_date": "2011-07-19",
+    "end_date": "2011-07-24",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13357,
+    "name": "All England Open 2007",
+    "country": "England",
+    "start_date": "2007-03-06",
+    "end_date": "2007-03-11",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13366,
+    "name": "French Open 2019",
+    "country": "France",
+    "start_date": "2019-10-22",
+    "end_date": "2019-10-27",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13392,
+    "name": "Hong Kong Open 2017",
+    "country": "Hong Kong",
+    "start_date": "2017-11-21",
+    "end_date": "2017-11-26",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13396,
+    "name": "US Open 2010",
+    "country": "United States",
+    "start_date": "2010-07-19",
+    "end_date": "2010-07-24",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13402,
+    "name": "China Lingshui International Challenge 2015",
+    "country": "China",
+    "start_date": "2015-01-27",
+    "end_date": "2015-02-01",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13404,
+    "name": "China Masters 2017",
+    "country": "China",
+    "start_date": "2017-04-18",
+    "end_date": "2017-04-23",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13418,
+    "name": "Kumamoto Masters Japan 2023",
+    "country": "Japan",
+    "start_date": "2023-11-14",
+    "end_date": "2023-11-19",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13419,
+    "name": "Indonesia International Challenge 2018",
+    "country": "Indonesia",
+    "start_date": "2018-10-23",
+    "end_date": "2018-10-28",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13426,
+    "name": "All England Open 2023",
+    "country": "England",
+    "start_date": "2023-03-14",
+    "end_date": "2023-03-19",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13432,
+    "name": "Olympic Games 2012",
+    "country": "England",
+    "start_date": "2012-07-28",
+    "end_date": "2012-08-05",
+    "ranking_level": "OG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 1,
+    "main_rounds": [
+      1
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13446,
+    "name": "Irish Open 2018",
+    "country": "Ireland",
+    "start_date": "2018-11-14",
+    "end_date": "2018-11-17",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13449,
+    "name": "Thailand Open 2018",
+    "country": "Thailand",
+    "start_date": "2018-07-10",
+    "end_date": "2018-07-15",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13466,
+    "name": "Japan Open 2023",
+    "country": "Japan",
+    "start_date": "2023-07-25",
+    "end_date": "2023-07-30",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13473,
+    "name": "Swiss Open 2013",
+    "country": "Switzerland",
+    "start_date": "2013-03-12",
+    "end_date": "2013-03-17",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13498,
+    "name": "French Open 2007",
+    "country": "France",
+    "start_date": "2007-10-30",
+    "end_date": "2007-11-04",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13502,
+    "name": "Singapore Open 2022",
+    "country": "Singapore",
+    "start_date": "2022-07-12",
+    "end_date": "2022-07-17",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13532,
+    "name": "Chinese Taipei Open 2009",
+    "country": "Chinese Taipei",
+    "start_date": "2009-08-25",
+    "end_date": "2009-08-30",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13546,
+    "name": "Austrian Open 2007",
+    "country": "Austria",
+    "start_date": "2007-02-22",
+    "end_date": "2007-02-25",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13547,
+    "name": "HYLO Open 2022",
+    "country": "Germany",
+    "start_date": "2022-11-01",
+    "end_date": "2022-11-06",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13552,
+    "name": "Japan Open 2012",
+    "country": "Japan",
+    "start_date": "2012-09-18",
+    "end_date": "2012-09-23",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13565,
+    "name": "Japan Open 2014",
+    "country": "Japan",
+    "start_date": "2014-06-10",
+    "end_date": "2014-06-15",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13567,
+    "name": "Bulgarian International 2011",
+    "country": "Bulgaria",
+    "start_date": "2011-10-06",
+    "end_date": "2011-10-09",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13579,
+    "name": "Thailand Open 2009",
+    "country": "Thailand",
+    "start_date": "2009-07-21",
+    "end_date": "2009-07-26",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13580,
+    "name": "Iran Fajr International Challenge 2010",
+    "country": "Iran",
+    "start_date": "2010-02-03",
+    "end_date": "2010-02-06",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13583,
+    "name": "Japan Open 2018",
+    "country": "Japan",
+    "start_date": "2018-09-11",
+    "end_date": "2018-09-16",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13588,
+    "name": "All England Open 2011",
+    "country": "England",
+    "start_date": "2011-03-08",
+    "end_date": "2011-03-13",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13595,
+    "name": "China Masters Grand Prix Gold 2015",
+    "country": "China",
+    "start_date": "2015-04-14",
+    "end_date": "2015-04-19",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13600,
+    "name": "Denmark Open 2023",
+    "country": "Denmark",
+    "start_date": "2023-10-17",
+    "end_date": "2023-10-22",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13607,
+    "name": "Norwegian International 2018",
+    "country": "Norway",
+    "start_date": "2018-11-08",
+    "end_date": "2018-11-11",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13614,
+    "name": "Thailand Open 2015",
+    "country": "Thailand",
+    "start_date": "2015-09-29",
+    "end_date": "2015-10-04",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13618,
+    "name": "Korea Masters 2018",
+    "country": "Korea",
+    "start_date": "2018-11-27",
+    "end_date": "2018-12-02",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13621,
+    "name": "Malaysia Open 2023",
+    "country": "Malaysia",
+    "start_date": "2023-01-10",
+    "end_date": "2023-01-15",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13623,
+    "name": "Syed Modi India International 2010",
+    "country": "India",
+    "start_date": "2010-12-14",
+    "end_date": "2010-12-19",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13639,
+    "name": "Macau Open 2015",
+    "country": "Macau China",
+    "start_date": "2015-11-24",
+    "end_date": "2015-11-29",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13647,
+    "name": "Indonesia Open 2010",
+    "country": "Indonesia",
+    "start_date": "2010-06-22",
+    "end_date": "2010-06-27",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13652,
+    "name": "China Open 2012",
+    "country": "China",
+    "start_date": "2012-11-13",
+    "end_date": "2012-11-18",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13654,
+    "name": "Lingshui China Masters 2018",
+    "country": "China",
+    "start_date": "2018-04-10",
+    "end_date": "2018-04-15",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13683,
+    "name": "Indonesia International Challenge 2011",
+    "country": "Indonesia",
+    "start_date": "2011-07-19",
+    "end_date": "2011-07-24",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 4,
+    "main_rounds": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13684,
+    "name": "China Open 2014",
+    "country": "China",
+    "start_date": "2014-11-11",
+    "end_date": "2014-11-16",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13692,
+    "name": "World Championships 2015",
+    "country": "Indonesia",
+    "start_date": "2015-08-10",
+    "end_date": "2015-08-16",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13699,
+    "name": "US Open 2019",
+    "country": "United States",
+    "start_date": "2019-07-09",
+    "end_date": "2019-07-14",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13706,
+    "name": "Malaysia Masters 2010",
+    "country": "Malaysia",
+    "start_date": "2010-07-06",
+    "end_date": "2010-07-11",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13710,
+    "name": "Indonesia Open 2023",
+    "country": "Indonesia",
+    "start_date": "2023-06-13",
+    "end_date": "2023-06-18",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13712,
+    "name": "Spanish Open 2010",
+    "country": "Spain",
+    "start_date": "2010-05-20",
+    "end_date": "2010-05-23",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13733,
+    "name": "Indonesia Masters 2019",
+    "country": "Indonesia",
+    "start_date": "2019-01-22",
+    "end_date": "2019-01-27",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13734,
+    "name": "Malaysia International Challenge 2009",
+    "country": "Malaysia",
+    "start_date": "2009-11-17",
+    "end_date": "2009-11-22",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13749,
+    "name": "Singapore Open 2013",
+    "country": "Singapore",
+    "start_date": "2013-06-18",
+    "end_date": "2013-06-23",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13758,
+    "name": "All England Open 2014",
+    "country": "England",
+    "start_date": "2014-03-04",
+    "end_date": "2014-03-09",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13772,
+    "name": "Singapore Open 2014",
+    "country": "Singapore",
+    "start_date": "2014-04-08",
+    "end_date": "2014-04-13",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13795,
+    "name": "Swiss Open 2007",
+    "country": "Switzerland",
+    "start_date": "2007-03-12",
+    "end_date": "2007-03-18",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13821,
+    "name": "German Open 2023",
+    "country": "Germany",
+    "start_date": "2023-03-07",
+    "end_date": "2023-03-12",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13832,
+    "name": "Hyderabad Open 2018",
+    "country": "India",
+    "start_date": "2018-09-04",
+    "end_date": "2018-09-09",
+    "ranking_level": "S100",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13837,
+    "name": "Super Series Finals 2014",
+    "country": "United Arab Emirates",
+    "start_date": "2014-12-17",
+    "end_date": "2014-12-21",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 13847,
+    "name": "India Open 2010",
+    "country": "India",
+    "start_date": "2010-06-08",
+    "end_date": "2010-06-13",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13881,
+    "name": "India Open 2018",
+    "country": "India",
+    "start_date": "2018-01-30",
+    "end_date": "2018-02-04",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13892,
+    "name": "Super Series Finals 2016",
+    "country": "United Arab Emirates",
+    "start_date": "2016-12-14",
+    "end_date": "2016-12-18",
+    "ranking_level": "SSF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 13895,
+    "name": "Finnish Open 2013",
+    "country": "Finland",
+    "start_date": "2013-04-04",
+    "end_date": "2013-04-07",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13899,
+    "name": "Hong Kong Open 2018",
+    "country": "Hong Kong",
+    "start_date": "2018-11-13",
+    "end_date": "2018-11-18",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13918,
+    "name": "India Open 2016",
+    "country": "India",
+    "start_date": "2016-03-29",
+    "end_date": "2016-04-03",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13934,
+    "name": "China Open 2017",
+    "country": "China",
+    "start_date": "2017-11-14",
+    "end_date": "2017-11-19",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13944,
+    "name": "China Open 2016",
+    "country": "China",
+    "start_date": "2016-11-15",
+    "end_date": "2016-11-20",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13949,
+    "name": "Japan Open 2013",
+    "country": "Japan",
+    "start_date": "2013-09-17",
+    "end_date": "2013-09-22",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13952,
+    "name": "Swiss Open 2008",
+    "country": "Switzerland",
+    "start_date": "2008-03-11",
+    "end_date": "2008-03-16",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13972,
+    "name": "Malaysia Open 2011",
+    "country": "Malaysia",
+    "start_date": "2011-01-18",
+    "end_date": "2011-01-23",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13982,
+    "name": "Denmark Open 2014",
+    "country": "Denmark",
+    "start_date": "2014-10-14",
+    "end_date": "2014-10-19",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13983,
+    "name": "Indonesia Open 2014",
+    "country": "Indonesia",
+    "start_date": "2014-06-17",
+    "end_date": "2014-06-22",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13985,
+    "name": "Maldives International Challenge 2011",
+    "country": "Maldives",
+    "start_date": "2011-06-07",
+    "end_date": "2011-06-11",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13986,
+    "name": "Indonesia Open 2016",
+    "country": "Indonesia",
+    "start_date": "2016-05-30",
+    "end_date": "2016-06-05",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13988,
+    "name": "Hong Kong Open 2012",
+    "country": "Hong Kong",
+    "start_date": "2012-11-20",
+    "end_date": "2012-11-25",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13995,
+    "name": "India Open 2009",
+    "country": "India",
+    "start_date": "2009-03-24",
+    "end_date": "2009-03-29",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 13997,
+    "name": "China Masters 2012",
+    "country": "China",
+    "start_date": "2012-09-11",
+    "end_date": "2012-09-16",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14004,
+    "name": "Syed Modi India International 2019",
+    "country": "India",
+    "start_date": "2019-11-26",
+    "end_date": "2019-12-01",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14011,
+    "name": "India Open 2015",
+    "country": "India",
+    "start_date": "2015-03-24",
+    "end_date": "2015-03-29",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14012,
+    "name": "World Championships 2021",
+    "country": "Spain",
+    "start_date": "2021-12-12",
+    "end_date": "2021-12-19",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14029,
+    "name": "New Zealand Open 2019",
+    "country": "New Zealand",
+    "start_date": "2019-04-30",
+    "end_date": "2019-05-05",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14031,
+    "name": "Mongolian Satellite 2019",
+    "country": "Mongolia",
+    "start_date": "2019-06-25",
+    "end_date": "2019-06-30",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14036,
+    "name": "Spain Masters 2024",
+    "country": "Spain",
+    "start_date": "2024-03-26",
+    "end_date": "2024-03-31",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14048,
+    "name": "Olympic Games 2008",
+    "country": "China",
+    "start_date": "2008-08-09",
+    "end_date": "2008-08-17",
+    "ranking_level": "OG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14054,
+    "name": "Denmark Open 2015",
+    "country": "Denmark",
+    "start_date": "2015-10-13",
+    "end_date": "2015-10-18",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14066,
+    "name": "French Open 2008",
+    "country": "France",
+    "start_date": "2008-10-28",
+    "end_date": "2008-11-02",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14074,
+    "name": "Swedish Masters 2011",
+    "country": "Sweden",
+    "start_date": "2011-01-20",
+    "end_date": "2011-01-23",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14083,
+    "name": "Indonesia Open 2024",
+    "country": "Indonesia",
+    "start_date": "2024-06-04",
+    "end_date": "2024-06-09",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14096,
+    "name": "Malaysia Masters 2011",
+    "country": "Malaysia",
+    "start_date": "2011-05-03",
+    "end_date": "2011-05-08",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14108,
+    "name": "Russia Open 2013",
+    "country": "Russia",
+    "start_date": "2013-09-24",
+    "end_date": "2013-09-29",
+    "ranking_level": "GP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14111,
+    "name": "Macau Open 2016",
+    "country": "Macau China",
+    "start_date": "2016-11-29",
+    "end_date": "2016-12-04",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14117,
+    "name": "Australian Open 2011",
+    "country": "Australia",
+    "start_date": "2011-04-05",
+    "end_date": "2011-04-10",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14119,
+    "name": "Japan Open 2010",
+    "country": "Japan",
+    "start_date": "2010-09-21",
+    "end_date": "2010-09-26",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14124,
+    "name": "Indonesia Open 2015",
+    "country": "Indonesia",
+    "start_date": "2015-06-02",
+    "end_date": "2015-06-07",
+    "ranking_level": "SSP",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14155,
+    "name": "German Open 2019",
+    "country": "Germany",
+    "start_date": "2019-02-26",
+    "end_date": "2019-03-03",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14165,
+    "name": "Vietnam Open 2007",
+    "country": "Vietnam",
+    "start_date": "2007-11-06",
+    "end_date": "2007-11-11",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14167,
+    "name": "Macau Open 2014",
+    "country": "Macau China",
+    "start_date": "2014-11-25",
+    "end_date": "2014-11-30",
+    "ranking_level": "GPG",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14188,
+    "name": "China Masters 2013",
+    "country": "China",
+    "start_date": "2013-09-10",
+    "end_date": "2013-09-15",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14189,
+    "name": "Russia Open 2007",
+    "country": "Russia",
+    "start_date": "2007-12-05",
+    "end_date": "2007-12-09",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14195,
+    "name": "Irish Open 2013",
+    "country": "Ireland",
+    "start_date": "2013-12-04",
+    "end_date": "2013-12-07",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14200,
+    "name": "Malaysia International Challenge 2007",
+    "country": "Malaysia",
+    "start_date": "2007-11-13",
+    "end_date": "2007-11-18",
+    "ranking_level": "IS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14210,
+    "name": "Lao International Challenge 2010",
+    "country": "Lao",
+    "start_date": "2010-11-03",
+    "end_date": "2010-11-07",
+    "ranking_level": "IC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 1,
+    "main_rounds": [
+      1
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14211,
+    "name": "Malaysia Open 2010",
+    "country": "Malaysia",
+    "start_date": "2010-01-19",
+    "end_date": "2010-01-24",
+    "ranking_level": "SS",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14217,
+    "name": "Korea Open 2024",
+    "country": "Korea",
+    "start_date": "2024-08-27",
+    "end_date": "2024-09-01",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14229,
+    "name": "Chinese Taipei Open 2024",
+    "country": "Chinese Taipei",
+    "start_date": "2024-09-03",
+    "end_date": "2024-09-08",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14240,
+    "name": "Hong Kong Open 2024",
+    "country": "Hong Kong",
+    "start_date": "2024-09-10",
+    "end_date": "2024-09-15",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14262,
+    "name": "China Open 2024",
+    "country": "China",
+    "start_date": "2024-09-17",
+    "end_date": "2024-09-22",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14266,
+    "name": "Macau Open 2024",
+    "country": "Macau China",
+    "start_date": "2024-09-24",
+    "end_date": "2024-09-29",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14277,
+    "name": "Arctic Open 2024",
+    "country": "Finland",
+    "start_date": "2024-10-08",
+    "end_date": "2024-10-13",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14289,
+    "name": "Denmark Open 2024",
+    "country": "Denmark",
+    "start_date": "2024-10-15",
+    "end_date": "2024-10-20",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14317,
+    "name": "Kumamoto Masters Japan 2024",
+    "country": "Japan",
+    "start_date": "2024-11-12",
+    "end_date": "2024-11-17",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14328,
+    "name": "China Masters 2024",
+    "country": "China",
+    "start_date": "2024-11-19",
+    "end_date": "2024-11-24",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14337,
+    "name": "Syed Modi India International 2024",
+    "country": "India",
+    "start_date": "2024-11-26",
+    "end_date": "2024-12-01",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14357,
+    "name": "World Tour Finals 2024",
+    "country": "China",
+    "start_date": "2024-12-11",
+    "end_date": "2024-12-15",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  },
+  {
+    "tournament_id": 14377,
+    "name": "Malaysia Open 2025",
+    "country": "Malaysia",
+    "start_date": "2025-01-07",
+    "end_date": "2025-01-12",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14380,
+    "name": "India Open 2025",
+    "country": "India",
+    "start_date": "2025-01-14",
+    "end_date": "2025-01-19",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14382,
+    "name": "Indonesia Masters 2025",
+    "country": "Indonesia",
+    "start_date": "2025-01-21",
+    "end_date": "2025-01-26",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14386,
+    "name": "Thailand Masters 2025",
+    "country": "Thailand",
+    "start_date": "2025-01-28",
+    "end_date": "2025-02-02",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14405,
+    "name": "Orleans Masters 2025",
+    "country": "France",
+    "start_date": "2025-03-04",
+    "end_date": "2025-03-09",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14410,
+    "name": "All England Open 2025",
+    "country": "England",
+    "start_date": "2025-03-11",
+    "end_date": "2025-03-16",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14414,
+    "name": "Swiss Open 2025",
+    "country": "Switzerland",
+    "start_date": "2025-03-18",
+    "end_date": "2025-03-23",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14455,
+    "name": "Thailand Open 2025",
+    "country": "Thailand",
+    "start_date": "2025-05-13",
+    "end_date": "2025-05-18",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14459,
+    "name": "Malaysia Masters 2025",
+    "country": "Malaysia",
+    "start_date": "2025-05-20",
+    "end_date": "2025-05-25",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14462,
+    "name": "Singapore Open 2025",
+    "country": "Singapore",
+    "start_date": "2025-05-27",
+    "end_date": "2025-06-01",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14466,
+    "name": "Indonesia Open 2025",
+    "country": "Indonesia",
+    "start_date": "2025-06-03",
+    "end_date": "2025-06-08",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14496,
+    "name": "Japan Open 2025",
+    "country": "Japan",
+    "start_date": "2025-07-15",
+    "end_date": "2025-07-20",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14501,
+    "name": "China Open 2025",
+    "country": "China",
+    "start_date": "2025-07-22",
+    "end_date": "2025-07-27",
+    "ranking_level": "S1000",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14505,
+    "name": "Macau Open 2025",
+    "country": "Macau China",
+    "start_date": "2025-07-29",
+    "end_date": "2025-08-03",
+    "ranking_level": "S300",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14522,
+    "name": "World Championships 2025",
+    "country": "France",
+    "start_date": "2025-08-25",
+    "end_date": "2025-08-31",
+    "ranking_level": "WC",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 3,
+    "main_rounds": [
+      1,
+      2,
+      3
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14534,
+    "name": "Hong Kong Open 2025",
+    "country": "Hong Kong",
+    "start_date": "2025-09-09",
+    "end_date": "2025-09-14",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14536,
+    "name": "China Masters 2025",
+    "country": "China",
+    "start_date": "2025-09-16",
+    "end_date": "2025-09-21",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14551,
+    "name": "Korea Open 2025",
+    "country": "Korea",
+    "start_date": "2025-09-23",
+    "end_date": "2025-09-28",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14567,
+    "name": "Arctic Open 2025",
+    "country": "Finland",
+    "start_date": "2025-10-07",
+    "end_date": "2025-10-12",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14572,
+    "name": "Denmark Open 2025",
+    "country": "Denmark",
+    "start_date": "2025-10-14",
+    "end_date": "2025-10-19",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14580,
+    "name": "French Open 2025",
+    "country": "France",
+    "start_date": "2025-10-21",
+    "end_date": "2025-10-26",
+    "ranking_level": "S750",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14606,
+    "name": "Kumamoto Masters Japan 2025",
+    "country": "Japan",
+    "start_date": "2025-11-11",
+    "end_date": "2025-11-16",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14614,
+    "name": "Australian Open 2025",
+    "country": "Australia",
+    "start_date": "2025-11-18",
+    "end_date": "2025-11-23",
+    "ranking_level": "S500",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 2,
+    "main_rounds": [
+      1,
+      2
+    ],
+    "has_quarterfinal": true
+  },
+  {
+    "tournament_id": 14651,
+    "name": "World Tour Finals 2025",
+    "country": "China",
+    "start_date": "2025-12-17",
+    "end_date": "2025-12-21",
+    "ranking_level": "WTF",
+    "source": "harvard",
+    "source_url": "https://doi.org/10.7910/DVN/RSAYV5",
+    "main_round_count": 0,
+    "main_rounds": [],
+    "has_quarterfinal": false
+  }
+]

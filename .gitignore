@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.research/
+.openai/*.local.json
+test-results/
+qa/*.png
+qa/browser-results.json
+.vercel/

@@ -1,0 +1,24 @@
+{
+  "checked": "2026-10-29",
+  "through": "2024-12-31",
+  "timelineStart": "2009-10-01",
+  "source": "ranking-history",
+  "note": "2009년 10월 이후 공개 1위 재임표의 누적 주수. 코로나19 랭킹 동결 기간은 원출처 집계 방식을 따르며 달력 일수를 7로 나누지 않는다. 이전 시대 선수의 주수를 0으로 채우지 않는다.",
+  "players": {
+    "an": {"highest": 1, "weeks": 73, "derivation": "2023-08-01–2024-10-07의 62주 + 2024-10-22–2024-12-31의 발표 주 11회"},
+    "marin": {"highest": 1, "weeks": 66},
+    "yamaguchi": {"highest": 1, "weeks": 74},
+    "tai": {"highest": 1, "weeks": 214},
+    "chen": {"highest": 1, "weeks": 15},
+    "li": {"highest": 1, "weeks": 124},
+    "sindhu": {"highest": 2, "weeks": 0, "highestSource": "https://en.wikipedia.org/wiki/P._V._Sindhu"},
+    "intanon": {"highest": 1, "weeks": 2},
+    "wang": {"highest": 1, "weeks": 116},
+    "zhang": {"highest": 1, "weeks": null, "highestSource": "https://www.aljazeera.com/news/2006/10/15/zhang-defends-japan-badminton-title", "reason": "2009년 이전 주별 재임표 미확보"},
+    "susi": {"highest": 1, "weeks": null, "highestSource": "https://www.worldbadminton.com/shuttlenws/19971112.html", "reason": "2009년 이전 주별 재임표 미확보"},
+    "bang": {"highest": 1, "weeks": null, "highestSource": "https://world.kbs.co.kr/service/news_view.htm?Seq_Code=179502&lang=e", "reason": "2009년 이전 주별 재임표 미확보"},
+    "xie": {"highest": 1, "weeks": null, "highestSource": "https://www.rte.ie/sport/paris-2024/2008/0815/236439-xiexingfang/", "reason": "2009년 이전 주별 재임표 미확보"},
+    "lingwei": {"highest": null, "weeks": null, "reason": "당시 공식 랭킹 시계열 미확보"},
+    "han": {"highest": null, "weeks": null, "reason": "당시 공식 랭킹 시계열 미확보"}
+  }
+}

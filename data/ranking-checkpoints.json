@@ -1,0 +1,14 @@
+[
+ {"date":"2018-12-31","rank":99,"kind":"yearEnd","source":"an-year-ranks","label":"2018 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2019-12-31","rank":9,"kind":"yearEnd","source":"an-year-ranks","label":"2019 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2020-12-31","rank":9,"kind":"yearEnd","source":"an-year-ranks","label":"2020 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2021-12-31","rank":4,"kind":"yearEnd","source":"an-year-ranks","label":"2021 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2022-12-31","rank":4,"kind":"yearEnd","source":"an-year-ranks","label":"2022 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2023-08-01","rank":1,"kind":"milestone","source":"an-first-one","label":"처음 세계 1위","basis":"KBS · 대한배드민턴협회 발표 인용"},
+ {"date":"2023-12-31","rank":1,"kind":"yearEnd","source":"an-year-ranks","label":"2023 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2024-10-22","rank":1,"kind":"milestone","source":"ranking-history","label":"세계 1위 복귀","basis":"공개 세계 1위 재임표"},
+ {"date":"2024-12-31","rank":1,"kind":"yearEnd","source":"an-year-ranks","label":"2024 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2025-03-18","rank":1,"points":112867.0046,"kind":"milestone","source":"asia-seeding-2025","label":"아시아선수권 공식 시딩 자료","basis":"시딩 번호가 아닌 World Ranking 열 · Ranking Date 2025-03-18"},
+ {"date":"2025-12-31","rank":1,"kind":"yearEnd","source":"an-year-ranks","label":"2025 연말","basis":"연말 순위 · 실제 발표일을 뜻하지 않음"},
+ {"date":"2026-10-27","rank":1,"points":122287,"kind":"latest","source":"an-year-ranks","label":"최근 확인 랭킹","basis":"선수 프로필 현재 순위와 BWF 랭킹 공개 재임표 교차 확인"}
+]

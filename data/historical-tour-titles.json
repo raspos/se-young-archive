@@ -1,0 +1,44 @@
+{
+  "checked": "2026-10-29",
+  "scopeAsOf": "2024-12-31",
+  "discipline": "women-singles",
+  "methodology": "Official event winner lists were inspected across all editions through 2024 and filtered to the 15 player IDs in players.json. Years are edition years, not invented match dates. Empty years means no women's singles title in that event's complete winner list; it does not mean zero career titles. These event totals must not be presented as complete career tour totals or added to a cross-era GOAT score.",
+  "sources": {
+    "hongkong": {
+      "title": "Champions of the Hong Kong Opens",
+      "url": "https://hkopenbadminton.org/wp-content/uploads/2025/05/Cham-of-HKO-2025.pdf",
+      "publisher": "Hong Kong Open official website",
+      "pages": [1, 2],
+      "coverage": "All 34 listed editions, 1982–2024; Women's Singles column only.",
+      "editionYears": [1982, 1985, 1986, 1987, 1988, 1989, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2001, 2003, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2023, 2024],
+      "note": "The PDF lists 34 editions through 2024. Years absent from the list are not assigned a winner or a cancellation reason here. The 1988 women's singles winner is Li Yong Suk (KOR), not Han Aiping."
+    },
+    "german": {
+      "title": "Winner of the German Open since 1955",
+      "url": "https://www.german-open-badminton.de/wp-content/uploads/2022/02/YGO-2026-Winners-1955-2025-1.pdf",
+      "publisher": "German Open official website",
+      "pages": [1, 2, 3, 4, 5, 6, 7],
+      "coverage": "All 65 numbered editions, 1955–2024; Winner WS column only. 2025 excluded.",
+      "noWinnerYears": [1970, 1979, 1998, 2020, 2021],
+      "cancelledCovidYears": [2020, 2021],
+      "note": "1970, 1979 and 1998 have dashed winner cells. The PDF explicitly identifies 2020 and 2021 as cancelled because of COVID-19. No reason is inferred for other dashed years."
+    }
+  },
+  "players": {
+    "an": {"hongkong": {"years": []}, "german": {"years": []}},
+    "zhang": {"hongkong": {"years": [2003, 2005]}, "german": {"years": [2003, 2006]}},
+    "susi": {"hongkong": {"years": []}, "german": {"years": [1992, 1993]}},
+    "marin": {"hongkong": {"years": [2015]}, "german": {"years": []}},
+    "yamaguchi": {"hongkong": {"years": [2023]}, "german": {"years": [2017, 2018, 2019, 2023]}},
+    "tai": {"hongkong": {"years": [2014, 2016, 2017]}, "german": {"years": []}},
+    "chen": {"hongkong": {"years": [2019]}, "german": {"years": []}},
+    "bang": {"hongkong": {"years": [1992, 1994, 1995]}, "german": {"years": []}},
+    "li": {"hongkong": {"years": [2012]}, "german": {"years": [2012, 2016]}},
+    "sindhu": {"hongkong": {"years": []}, "german": {"years": []}},
+    "intanon": {"hongkong": {"years": []}, "german": {"years": []}},
+    "xie": {"hongkong": {"years": [1999, 2006, 2007]}, "german": {"years": [2004, 2005, 2007]}},
+    "wang": {"hongkong": {"years": [2009, 2013]}, "german": {"years": [2009, 2013]}},
+    "lingwei": {"hongkong": {"years": [1986]}, "german": {"years": []}},
+    "han": {"hongkong": {"years": [1985, 1987, 1989]}, "german": {"years": [1988]}}
+  }
+}

@@ -1,0 +1,44 @@
+Sun, Mingchao; Zhang, Fengkai (2026). A Relational Dataset of International Badminton Singles Matches with Ranking and Elo Measures, 2006–2025. Harvard Dataverse, V3. https://doi.org/10.7910/DVN/RSAYV5
+CC BY 4.0: https://creativecommons.org/licenses/by/4.0/
+Article: https://doi.org/10.1038/s41597-026-08408-4
+Changes: selected women's singles records involving archive comparison players; normalized dates and score separators, added canonical player keys and provenance. Rankings and Elo nulls preserved. Elo is model-based, not official BWF statistics. Original tier codes retained.
+The authors license their schema, identifiers, curation/corrections, classifications, Elo series and compilation. This does not override independently applicable source-website/database rights.
+Downloaded source hashes:
+{
+  "codebook.tab": {
+    "md5": "adbefc029476144c18d434a93ec3d4bf",
+    "deposited_md5": "cf5058425f1496a78eef7cf65113cdab",
+    "checksum_matches_deposit": false,
+    "tabular_export": true,
+    "sha256": "2775aff282bd17255d641b26f6478caec7f19c19e8e408811f6b6ba422e6da94",
+    "bytes": 2784,
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13898738"
+  },
+  "matches.xlsx": {
+    "md5": "f591a0307c5bdc2a4fd72fb828a25bf3",
+    "deposited_md5": "f591a0307c5bdc2a4fd72fb828a25bf3",
+    "checksum_matches_deposit": true,
+    "tabular_export": false,
+    "sha256": "331714d95311884be081d7a0bc053fb32835dc64f3f7755d4f820e2ccb5c5300",
+    "bytes": 14403257,
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13898740"
+  },
+  "players.xlsx": {
+    "md5": "8bdb76d681a6b4ee0fcce9aae42a7615",
+    "deposited_md5": "8bdb76d681a6b4ee0fcce9aae42a7615",
+    "checksum_matches_deposit": true,
+    "tabular_export": false,
+    "sha256": "192a9a4d2111918e1fa5fc984399acf73ba71897b3f3306037931eef33952ed9",
+    "bytes": 1049246,
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13898737"
+  },
+  "tournaments.xlsx": {
+    "md5": "f74a195a431e2211613dd5e27758d08b",
+    "deposited_md5": "f74a195a431e2211613dd5e27758d08b",
+    "checksum_matches_deposit": true,
+    "tabular_export": false,
+    "sha256": "450d723cfabd8d5f8db403551b49e7222640f1b16849382013ec55e1ce9a56af",
+    "bytes": 95862,
+    "url": "https://dataverse.harvard.edu/api/access/datafile/13898739"
+  }
+}

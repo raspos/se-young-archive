@@ -89,13 +89,103 @@
     "basis": "연말 순위 · 실제 발표일을 뜻하지 않음"
   },
   {
+    "date": "2026-08-18",
+    "rank": 1,
+    "points": 117787,
+    "kind": "weekly",
+    "source": "rank-2026-08-18",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-08-25",
+    "rank": 1,
+    "points": 121287,
+    "kind": "weekly",
+    "source": "rank-2026-08-25",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-09-08",
+    "rank": 1,
+    "points": 121287,
+    "kind": "weekly",
+    "source": "rank-2026-09-08",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-09-15",
+    "rank": 1,
+    "points": 121287,
+    "kind": "weekly",
+    "source": "rank-2026-09-15",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-09-21",
+    "rank": 1,
+    "points": 121287,
+    "kind": "weekly",
+    "source": "rank-2026-09-21",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-09-28",
+    "rank": 1,
+    "points": 121287,
+    "kind": "weekly",
+    "source": "rank-2026-09-28",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-10-05",
+    "rank": 1,
+    "points": 122287,
+    "kind": "weekly",
+    "source": "rank-2026-10-05",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-10-12",
+    "rank": 1,
+    "points": 122287,
+    "kind": "weekly",
+    "source": "rank-2026-10-12",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
+    "date": "2026-10-19",
+    "rank": 1,
+    "points": 122287,
+    "kind": "weekly",
+    "source": "rank-2026-10-19",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
+  },
+  {
     "date": "2026-10-27",
     "rank": 1,
     "points": 122287,
-    "kind": "milestone",
-    "source": "an-year-ranks",
-    "label": "2026년 10월 27일 확인값",
-    "basis": "선수 프로필 현재 순위와 BWF 랭킹 공개 재임표 교차 확인"
+    "kind": "weekly",
+    "source": "rank-2026-10-27",
+    "label": "BWF 여자단식 주간 순위표",
+    "basis": "BadmintonPlanet이 인용한 10월 27일 BWF 순위표"
+  },
+  {
+    "date": "2026-11-02",
+    "rank": 1,
+    "points": 122287,
+    "kind": "weekly",
+    "source": "rank-2026-11-02",
+    "label": "여자단식 주간 순위표",
+    "basis": "Badminton API 아카이브 표기일"
   },
   {
     "date": "2026-11-10",

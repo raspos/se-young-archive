@@ -446,5 +446,93 @@
     "checked": "2026-11-16",
     "scope": "여자단식 결과",
     "status": "확인"
+  },
+  {
+    "id": "rank-2026-08-18",
+    "title": "2026-08-18 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-08-18",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-08-25",
+    "title": "2026-08-25 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-08-25",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-09-08",
+    "title": "2026-09-08 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-09-08",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-09-15",
+    "title": "2026-09-15 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-09-15",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-09-21",
+    "title": "2026-09-21 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-09-21",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-09-28",
+    "title": "2026-09-28 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-09-28",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-10-05",
+    "title": "2026-10-05 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-10-05",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-10-12",
+    "title": "2026-10-12 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-10-12",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-10-19",
+    "title": "2026-10-19 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-10-19",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-11-02",
+    "title": "2026-11-02 여자단식 주간 순위표",
+    "url": "https://badmintonapi.com/rankings/womens-singles/2026-11-02",
+    "checked": "2026-11-16",
+    "scope": "안세영 여자단식 순위·포인트",
+    "status": "표기일 확인"
+  },
+  {
+    "id": "rank-2026-10-27",
+    "title": "2026-10-27 BWF 세계랭킹 · BadmintonPlanet",
+    "url": "https://www.badmintonplanet.com/badminton-news/bwf-world-rankings-christo-popov-world-no-1-october-2026.html",
+    "checked": "2026-11-16",
+    "scope": "여자단식 순위·포인트",
+    "status": "발표일 확인"
   }
 ]

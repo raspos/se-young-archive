@@ -1,6 +1,6 @@
 import {readFileSync,writeFileSync,mkdirSync,existsSync} from 'node:fs';
 import {createHash} from 'node:crypto';
-import {normalizeMatches,parseCSV,summariesFor,record,seasonRecords,playerId} from '../src/engine.mjs';
+import {AS_OF,normalizeMatches,parseCSV,summariesFor,record,seasonRecords,playerId} from '../src/engine.mjs';
 import {reconcileSources} from '../src/reconcile.mjs';
 import {preMatchTop10} from '../src/ranking.mjs';
 const players=JSON.parse(readFileSync('data/players.json','utf8'));
@@ -31,8 +31,8 @@ const local=normalizeMatches(combined,dataAsOf);
 const summaries=local?summariesFor(local.matches,players):{};
 const rankingHistory=JSON.parse(readFileSync('data/ranking-snapshots.json','utf8'));
 for(const p of players){const sum=summaries[p.id];sum.opposition=preMatchTop10(local.matches,p.id);for(const key of ['peak','peakSuperseries'])if(sum[key])sum[key].top10=preMatchTop10(local.matches,p.id,{start:sum[key].start+'-01-01',end:sum[key].end+'-12-31'});const values=researchRows.filter(m=>m.p1===p.id||m.p2===p.id).flatMap(m=>{const winner=m.p1===p.id;return [{value:winner?m.winner_elo:m.loser_elo,date:m.date},{value:winner?m.winner_next_elo:m.loser_next_elo,date:m.date}];}).filter(v=>Number.isFinite(v.value));sum.researchElo=values.sort((a,b)=>b.value-a.value)[0]??null;}
-const archive={players,sources,verified:curated,summaries,metadata:{checked:'2026-10-27',comparisonEnd:'2024-12-31',curatedAudit,bulkAudit:local?.audit??null,bulkCoverage:local?{start:local.matches[0]?.date,end:local.matches.at(-1)?.date}:null,rawRedistribution:false,summaryScope:'Harvard Dataverse v3·공개 CSV 통합 파생 집계. 통산·전체 국제경기 기록 아님. 자격예선·WO·불완전 점수 제외.'}};
-archive.metadata.rechecked='2026-10-29';
+const archive={players,sources,verified:curated,summaries,metadata:{checked:AS_OF,comparisonEnd:'2024-12-31',curatedAudit,bulkAudit:local?.audit??null,bulkCoverage:local?{start:local.matches[0]?.date,end:local.matches.at(-1)?.date}:null,rawRedistribution:false,summaryScope:'Harvard Dataverse v3·공개 CSV 통합 파생 집계. 통산·전체 국제경기 기록 아님. 자격예선·WO·불완전 점수 제외.'}};
+archive.metadata.rechecked=AS_OF;
 archive.historicalEvents=historicalEvents;
 archive.rankingMethod=rankings.note;
 archive.rankingHistory=rankingHistory;
@@ -42,7 +42,7 @@ archive.metadata.reconciliation=reconciliation.audit;
 // Only An's normalized factual results are included, never the upstream all-player CSV.
 const anRows=combined.filter(r=>[r.team1,r.team2].some(n=>playerId(n)==='an'));
 const anFacts=normalizeMatches(anRows,dataAsOf,true,true).matches;
-archive.matches=normalizeMatches([...anFacts,...verified],dataAsOf,true,true).matches;
+archive.matches=normalizeMatches([...anFacts,...verified],AS_OF,true,true).matches;
 if(summaries.an){summaries.an.record=record(archive.matches,'an');summaries.an.seasons=seasonRecords(archive.matches,'an');}
 archive.metadata.archiveCoverage={start:archive.matches[0]?.date,end:archive.matches.at(-1)?.date,count:archive.matches.length};
 archive.metadata.resultScope='확보한 안세영 경기 결과 전체. 예선·기권 표식 포함. 전체 통산 수집 완료를 의미하지 않음. 미완결 점수는 승률에서 제외.';

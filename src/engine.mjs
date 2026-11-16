@@ -1,5 +1,5 @@
 import PLAYER_ALIASES from './player-aliases.mjs';
-export const AS_OF = '2026-10-27';
+export const AS_OF = '2026-11-16';
 export const COMPARISON_END = '2024-12-31';
 export const METRICS = ['major','peak','consistency','opposition','tour'];
 export const ALIASES = {'an se young':'an','an seyoung':'an','ahn se young':'an','zhang ning':'zhang','susi susanti':'susi','susy susanti':'susi','carolina marin':'marin','akane yamaguchi':'yamaguchi','tai tzu ying':'tai','chen yu fei':'chen','chen yufei':'chen','bang soo hyun':'bang','li xue rui':'li','li xuerui':'li','pusarla v sindhu':'sindhu','pusarla sindhu':'sindhu','p v sindhu':'sindhu','ratchanok intanon':'intanon','xie xing fang':'xie','xie xingfang':'xie','wang yi han':'wang','wang yihan':'wang','li ling wei':'lingwei','han ai ping':'han'};

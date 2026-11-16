@@ -70,5 +70,65 @@
     "score": "21-13 21-16",
     "source": "france2026",
     "status": "completed"
+  },
+  {
+    "date": "2026-11-04",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "tier": "Super 500",
+    "round": "R32",
+    "team1": "AN Se Young",
+    "team2": "Kaloyana NALBANTOVA",
+    "winner": 1,
+    "score": "21-6 21-8",
+    "source": "korea2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-11-05",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "tier": "Super 500",
+    "round": "R16",
+    "team1": "AN Se Young",
+    "team2": "Letshanaa KARUPATHEVAN",
+    "winner": 1,
+    "score": "21-10 21-12",
+    "source": "korea2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-11-06",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "tier": "Super 500",
+    "round": "QF",
+    "team1": "AN Se Young",
+    "team2": "Riko GUNJI",
+    "winner": 1,
+    "score": "21-7 21-13",
+    "source": "korea2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-11-07",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "tier": "Super 500",
+    "round": "SF",
+    "team1": "AN Se Young",
+    "team2": "Hina AKECHI",
+    "winner": 1,
+    "score": "21-16 21-12",
+    "source": "korea2026",
+    "status": "completed"
+  },
+  {
+    "date": "2026-11-08",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "tier": "Super 500",
+    "round": "F",
+    "team1": "AN Se Young",
+    "team2": "Akane YAMAGUCHI",
+    "winner": 1,
+    "score": "21-12 15-21 21-16",
+    "source": "oca-korea2026",
+    "status": "completed"
   }
 ]

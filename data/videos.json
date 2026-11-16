@@ -1365,5 +1365,85 @@
         "title": "LI-NING China Masters 2025 | An Se Young (KOR) [1] vs. Mia Blichfeldt (DEN) | R16"
       }
     ]
+  },
+  {
+    "date": "2026-11-05",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "round": "R16",
+    "players": [
+      "an",
+      "harvard:5036433"
+    ],
+    "checked": "2026-11-16",
+    "verification": "Badminton People 경기별 하이라이트 링크 대조 · YouTube oEmbed HTTP 200, BWF TV 공식 채널 확인",
+    "videos": [
+      {
+        "id": "j1f3pOo1zCM",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Karupathevan Letshanaa | Tactical rallies and court coverage"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-06",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "round": "QF",
+    "players": [
+      "an",
+      "harvard:5022072"
+    ],
+    "checked": "2026-11-16",
+    "verification": "Badminton People 경기별 하이라이트 링크 대조 · YouTube oEmbed HTTP 200, BWF TV 공식 채널 확인",
+    "videos": [
+      {
+        "id": "RTZwIoIQ4Yk",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Riko Gunji | Power, precision and grace"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-07",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "round": "SF",
+    "players": [
+      "an",
+      "harvard:5028604"
+    ],
+    "checked": "2026-11-16",
+    "verification": "Badminton People 경기별 하이라이트 링크 대조 · YouTube oEmbed HTTP 200, BWF TV 공식 채널 확인",
+    "videos": [
+      {
+        "id": "RsZGpqtBEwo",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Hina Akechi | Precision and court coverage"
+      }
+    ]
+  },
+  {
+    "date": "2026-11-08",
+    "tournament": "YEOSU VICTOR Korea Open 2026",
+    "round": "F",
+    "players": [
+      "an",
+      "yamaguchi"
+    ],
+    "checked": "2026-11-16",
+    "verification": "Badminton People 경기별 하이라이트 링크 대조 · YouTube oEmbed HTTP 200, BWF TV 공식 채널 확인",
+    "videos": [
+      {
+        "id": "2TOi4ADVmf4",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Akane Yamaguchi | Titans of women’s singles go head-to-head"
+      }
+    ]
   }
 ]

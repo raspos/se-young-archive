@@ -13,7 +13,7 @@ export function RankingTimeline({data,sourceUrl}:{data:History;sourceUrl:(id:str
  const initial=new URLSearchParams(location.search).get('rankRange');
  const [range,setRange]=useState(['career','snapshots','recent'].includes(initial??'')?initial!:'career');
  const [metric,setMetric]=useState('rank');
- const [selected,setSelected]=useState('2026-10-27|latest');
+ const [selected,setSelected]=useState('');
  const filtered=useMemo(()=>data.points.filter(p=>(range!=='snapshots'||p.kind==='snapshot')&&(range!=='recent'||p.date>='2024-01-01')&&(metric==='rank'||p.points!=null)),[data,range,metric]);
  const active=filtered.find(p=>p.date+'|'+p.kind===selected)??filtered.at(-1)!;
  const x0=ms(filtered[0].date),x1=ms(filtered.at(-1)!.date),left=65,right=995,top=40,bottom=335;
@@ -28,7 +28,7 @@ export function RankingTimeline({data,sourceUrl}:{data:History;sourceUrl:(id:str
  function chooseRange(value:string){setRange(value);const q=new URLSearchParams(location.search);q.set('rankRange',value);history.replaceState(null,'','?'+q);}
  function csv(){const rows=[['date','rank','points','basis','source'],...filtered.map(p=>[p.date,p.rank,p.points??'',p.basis,link(p)])];const text='\uFEFF'+rows.map(r=>r.map(v=>'"'+String(v).replaceAll('"','""')+'"').join(',')).join('\n');const url=URL.createObjectURL(new Blob([text],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='an-ranking-history.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
  return <section id="ranking-history" className="ranking-exhibit section" aria-labelledby="ranking-title">
-  <div className="section-heading"><div><span className="eyebrow">THE CLIMB / WORLD RANKING</span><h2 id="ranking-title">한 계단씩, 세계 1위까지.</h2><p className="ranking-intro">안세영의 세계랭킹 추이. 한 번의 정상이 아니라, 올라온 시간을 봅니다.</p></div><button className="outline" onClick={csv}><Download size={17}/> 랭킹 CSV</button></div>
+  <div className="section-heading"><div><h2 id="ranking-title">안세영 세계랭킹</h2></div><button className="outline" onClick={csv}><Download size={17}/> 랭킹 CSV</button></div>
   <div className="ranking-stats"><div><span>최근 확인 순위</span><strong>1<small>위</small></strong><p>2026.10.27 기준</p></div><div><span>처음 세계 1위</span><strong className="ranking-date">2023.08.01</strong><p>KBS · 협회 발표 인용</p></div><div><span>검증해 연결한 기록</span><strong>{data.points.length}<small>건</small></strong><p>수집표 {data.snapshots.length}개 + 경기 전·연말값</p></div></div>
   <div className="ranking-chart-panel">
    <div className="ranking-toolbar"><div className="ranking-mode" role="group" aria-label="랭킹 그래프 지표"><button aria-pressed={metric==='rank'} onClick={()=>setMetric('rank')}>세계 순위</button><button aria-pressed={metric==='points'} onClick={()=>setMetric('points')}>랭킹 포인트</button></div><label>기간 <select aria-label="랭킹 그래프 기간" value={range} onChange={e=>chooseRange(e.target.value)}><option value="career">전체 궤적 · 2018–2026</option><option value="snapshots">수집표 상세 · 2022–2025</option><option value="recent">2024년 이후</option></select></label></div>
@@ -47,7 +47,7 @@ export function RankingTimeline({data,sourceUrl}:{data:History;sourceUrl:(id:str
    <p className="ranking-scroll-hint">그래프를 좌우로 밀어 전체 흐름을 볼 수 있습니다.</p><div className="ranking-legend"><span><i className="snapshot-key"/>날짜별 수집표 · 실선</span><span><i className="match-key"/>경기 전 관측값 · 점선 안내</span><span><i/>연말 기준값 · 독립 점</span><span><i className="milestone-key"/>보도·공식 자료 확인값</span></div>
    <label className="ranking-date-select">기록 선택 <select aria-label="랭킹 확인 기록 선택" value={active.date+'|'+active.kind} onChange={e=>setSelected(e.target.value)}>{filtered.map(p=><option key={p.date+'|'+p.kind} value={p.date+'|'+p.kind}>{p.date} · {p.rank}위 · {kinds[p.kind]}</option>)}</select></label><div className="ranking-readout" aria-live="polite"><div><span>{stamp(active.date)} · {kinds[active.kind]}</span><strong>{active.rank}위{active.points!=null&&<small>{active.points.toLocaleString('ko-KR',{maximumFractionDigits:1})} pts</small>}</strong><p>{active.label} · {active.basis}</p></div><a className="outline" href={link(active)} target="_blank" rel="noreferrer">이 기록 원문 <ExternalLink size={15}/></a></div>
   </div>
-  <p className="footnote">{data.note} 수집일을 공식 랭킹 발표일로 바꾸지 않았습니다. 연말 순위의 12월 31일은 연말 기준일입니다. 점에 마우스를 올리거나 누르면 날짜와 근거를 확인할 수 있습니다. 재조사 {data.checked}.</p>
+  <details className="reading-notes"><summary>그래프 기준</summary><p className="footnote">{data.note} 수집일을 공식 랭킹 발표일로 바꾸지 않았습니다. 연말 순위의 12월 31일은 연말 기준일입니다. 점에 마우스를 올리거나 누르면 날짜와 근거를 확인할 수 있습니다. 재조사 {data.checked}.</p></details>
   <details className="ranking-data-table"><summary>확인한 랭킹 {filtered.length}건과 출처 보기</summary><div className="table-scroll"><table><thead><tr><th>날짜 / 기준일</th><th>순위</th><th>포인트</th><th>기록 종류</th><th>출처</th></tr></thead><tbody>{filtered.map(p=><tr key={p.date+'|'+p.kind}><td>{p.date}</td><td>{p.rank}위</td><td>{p.points?.toLocaleString('ko-KR')??'해당 기록에 없음'}</td><td>{kinds[p.kind]}</td><td><a href={link(p)} target="_blank" rel="noreferrer">원문 ↗</a></td></tr>)}</tbody></table></div></details>
  </section>;
 }

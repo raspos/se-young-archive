@@ -206,5 +206,37 @@
     "scope": "여자단식 · 1955–2024 우승 연도",
     "status": "공식목록의 WinnerWS열 확인. 2025년 제외. 취소·공란연도에 가상 우승자를 부여하지 않음.",
     "checked": "2026-10-29"
+  },
+  {
+    "id": "korea2026",
+    "title": "Badminton People · 2026 코리아오픈 경기 결과",
+    "url": "https://www.badmintonpeople.com/an-se-young/",
+    "checked": "2026-11-16",
+    "scope": "안세영 코리아오픈 32강~결승",
+    "status": "경기별 결과 대조"
+  },
+  {
+    "id": "oca-korea2026",
+    "title": "아시아올림픽평의회 · 2026 코리아오픈 우승",
+    "url": "https://oca.asia/news/8260-asian-games-champion-an-dominates-bwf-world-rankings.html",
+    "checked": "2026-11-16",
+    "scope": "여자단식 결승 및 우승",
+    "status": "확인"
+  },
+  {
+    "id": "ioc-rank-20261110",
+    "title": "IOC · 2026년 11월 10일 여자단식 랭킹",
+    "url": "https://www.olympics.com/ioc/news/badminton-bwf-singles-world-rankings-complete-list",
+    "checked": "2026-11-16",
+    "scope": "안세영 세계 1위, 122,287점",
+    "status": "확인"
+  },
+  {
+    "id": "kumamoto2026",
+    "title": "조선일보 · 구마모토 마스터스 불참",
+    "url": "https://www.chosun.com/english/sports-en/2026/11/16/QMYOKNB6ANDEPK6WJ6OOHL7KVQ/",
+    "checked": "2026-11-16",
+    "scope": "안세영 대회 불참",
+    "status": "확인"
   }
 ]

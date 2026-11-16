@@ -27,3 +27,7 @@
 .anatomy-metrics b { display:block; color:var(--lime); font-size: 29px; }
 .anatomy-photo { width: min(100%,730px); max-height: 420px; object-fit: cover; border-radius: 8px; }
 @media(max-width:520px){.anatomy-nav a {padding-inline: 8px;} }
+
+.anatomy-hero-credit {position:absolute;right:16px;bottom:12px;color:#ecf4eb;font-size:12px;}
+.anatomy-press-photo {margin:12px 0;}
+.anatomy-press-photo figcaption {color:var(--muted);font-size:14px;}

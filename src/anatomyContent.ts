@@ -31,7 +31,8 @@ export const interviews:InterviewRecord[] = [
  {chapter:'evolution',speaker:'안세영',role:'선수',date:'2026-01-02',media:'조선비즈 · BWF TV 인터뷰 인용',language:'영어',url:'https://biz.chosun.com/en/en-sports/2026/01/02/UGMT3UVRFZFZBFTCO2LHCSVILM/',summary:'2025년 세계선수권에서 느낀 아쉬움을 동기로 삼았고, 이후 공격을 더 발전시키는 데 집중했다고 말했다.',topic:'경기 스타일의 변화',match:'2025 세계선수권 이후',status:'기사 요약'}
 ];
 export const imageSources = [
- {file:'an-smash.jpg',use:'특집 첫 화면',source:'사용자 제공 기존 사이트 사진',originalUrl:null,captureDate:null,event:null,terms:'기존 사이트에 게시된 자산'},
+ {"file":"anatomy/yonex-banner.jpg","use":"특집 첫 화면","source":"YONEX 공식 선수 프로필","originalUrl":"https://www.yonex.com/media/athletes/tmp/banner/1400x400_an-se-young.jpg","pageUrl":"https://www.yonex.com/athletes/details/?athlete_id=107","captureDate":null,"event":null,"terms":"사용자가 확인한 보도용 사용 허가"},
+ {"file":"anatomy/yonex-profile.jpg","use":"기술의 해부학","source":"YONEX 공식 선수 프로필","originalUrl":"https://www.yonex.com/media/wysiwyg/Athletes/Badminton/810x540_an-se-young.jpg","pageUrl":"https://www.yonex.com/athletes/details/?athlete_id=107","captureDate":null,"event":null,"terms":"사용자가 확인한 보도용 사용 허가"},
  {file:'an-victory.jpg',use:'위기 대응',source:'사용자 제공 기존 사이트 사진',originalUrl:null,captureDate:null,event:null,terms:'기존 사이트에 게시된 자산'},
  {file:'an-medal.jpg',use:'시기별 비교',source:'사용자 제공 기존 사이트 사진',originalUrl:null,captureDate:null,event:null,terms:'기존 사이트에 게시된 자산'}
 ];

@@ -10,6 +10,7 @@ const ms=(s:string)=>Date.parse(s+'T00:00:00Z');
 const stamp=(s:string)=>s.replaceAll('-','.');
 
 export function RankingTimeline({data,sourceUrl}:{data:History;sourceUrl:(id:string)=>string}){
+ const latest=data.points.filter(p=>p.kind==='latest').at(-1)??data.points.at(-1)!;
  const initial=new URLSearchParams(location.search).get('rankRange');
  const [range,setRange]=useState(['career','snapshots','recent'].includes(initial??'')?initial!:'career');
  const [metric,setMetric]=useState('rank');
@@ -29,11 +30,15 @@ export function RankingTimeline({data,sourceUrl}:{data:History;sourceUrl:(id:str
  function csv(){const rows=[['date','rank','points','basis','source'],...filtered.map(p=>[p.date,p.rank,p.points??'',p.basis,link(p)])];const text='\uFEFF'+rows.map(r=>r.map(v=>'"'+String(v).replaceAll('"','""')+'"').join(',')).join('\n');const url=URL.createObjectURL(new Blob([text],{type:'text/csv;charset=utf-8'}));const a=document.createElement('a');a.href=url;a.download='an-ranking-history.csv';a.click();setTimeout(()=>URL.revokeObjectURL(url),1000);}
  return <section id="ranking-history" className="ranking-exhibit section" aria-labelledby="ranking-title">
   <div className="section-heading"><div><h2 id="ranking-title">안세영 세계랭킹</h2></div><button className="outline" onClick={csv}><Download size={17}/> 랭킹 CSV</button></div>
-  <div className="ranking-stats"><div><span>최근 확인 순위</span><strong>1<small>위</small></strong><p>2026.10.27 기준</p></div><div><span>처음 세계 1위</span><strong className="ranking-date">2023.08.01</strong><p>KBS · 협회 발표 인용</p></div><div><span>검증해 연결한 기록</span><strong>{data.points.length}<small>건</small></strong><p>수집표 {data.snapshots.length}개 + 경기 전·연말값</p></div></div>
+  <div className="ranking-stats">
+   <div><span>BWF 여자단식 세계랭킹</span><strong>{latest.rank}<small>위</small></strong><p>{stamp(latest.date)} 발표 · <a href={sourceUrl(latest.source)} target="_blank" rel="noreferrer">출처 ↗</a></p></div>
+   <div><span>랭킹 포인트</span><strong>{latest.points?.toLocaleString('ko-KR')??'—'}<small>점</small></strong></div>
+   <div><span>처음 세계 1위</span><strong className="ranking-date">2023.08.01</strong></div>
+  </div>
   <div className="ranking-chart-panel">
    <div className="ranking-toolbar"><div className="ranking-mode" role="group" aria-label="랭킹 그래프 지표"><button aria-pressed={metric==='rank'} onClick={()=>setMetric('rank')}>세계 순위</button><button aria-pressed={metric==='points'} onClick={()=>setMetric('points')}>랭킹 포인트</button></div><label>기간 <select aria-label="랭킹 그래프 기간" value={range} onChange={e=>chooseRange(e.target.value)}><option value="career">전체 궤적 · 2018–2026</option><option value="snapshots">수집표 상세 · 2022–2025</option><option value="recent">2024년 이후</option></select></label></div>
    <div className="ranking-axis-note"><TrendingUp size={15}/>{metric==='rank'?'위로 갈수록 높은 순위 · 로그 눈금':'확인된 랭킹 포인트 · 제도 변경 전후 단순 비교 주의'}</div>
-   <div className="ranking-chart-scroll" tabIndex={0} role="region" aria-label="안세영 랭킹 그래프, 작은 화면에서는 좌우 스크롤"><svg viewBox="0 0 1040 390" className="ranking-history-chart" role="img" aria-label="안세영 세계랭킹 추이: 2018년 연말 99위, 2023년 8월 첫 1위, 최근 확인 1위">
+   <div className="ranking-chart-scroll" tabIndex={0} role="region" aria-label="안세영 랭킹 그래프, 작은 화면에서는 좌우 스크롤"><svg viewBox="0 0 1040 390" className="ranking-history-chart" role="img" aria-label={`안세영 세계랭킹 추이 · 최신 ${latest.rank}위 (${latest.date})`}>
     <defs><linearGradient id="rank-line" x1="0" x2="1"><stop stopColor="#71c6ab"/><stop offset="1" stopColor="#cbff68"/></linearGradient><pattern id="rank-gap" width="10" height="10" patternUnits="userSpaceOnUse"><path d="M0 10L10 0" stroke="#c8ddba0b"/></pattern></defs>
     {range!=='snapshots'&&filtered[0].date<'2025-01-07'&&<g><rect x={Math.max(left,x('2025-01-07'))} y={top} width={Math.max(0,right-Math.max(left,x('2025-01-07')))} height={bottom-top} fill="url(#rank-gap)"/><text x={Math.min(right-100,Math.max(left+20,x('2025-01-07')+15))} y={bottom-16} fill="#a1b09b" fontSize="14">주별 수집표 미연결 구간</text></g>}
     {ticks.map(t=>{const yy=y({rank:t,points:t} as Point);return <g key={t}><line x1={left} x2={right} y1={yy} y2={yy} stroke="#c0d4ae20"/><text x={left-13} y={yy+5} textAnchor="end" fill="#a7b99e" fontSize="15">{metric==='rank'?t:t/1000+'k'}</text></g>;})}

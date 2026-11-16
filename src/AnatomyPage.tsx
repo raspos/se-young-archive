@@ -1,4 +1,4 @@
-import {lazy,Suspense,useEffect,useState} from 'react';
+import {useEffect,useState} from 'react';
 import {ArrowUpRight,Play} from 'lucide-react';
 import {record,seasonRecords} from './engine.mjs';
 import {matchVideoLinks} from './videos.mjs';
@@ -6,7 +6,6 @@ import {RivalAnalysis} from './RivalAnalysis';
 import {chapters,techniques,interviews,imageSources} from './anatomyContent';
 import './anatomy.css';
 
-const FootworkCourt=lazy(()=>import('./FootworkCourt'));
 
 type Match={key:string;date:string;tournament:string;round:string;tier:string;p1:string;p2:string;winner:number;games:number[][];status:string;team1:string;team2:string;source?:string;team_event?:string|null};
 type Props={matches:Match[];videos:any[];sourceUrl:(id?:string)=>string;openMatch:(m:Match)=>void;openSeason:(year:number)=>void};
@@ -46,7 +45,7 @@ function Court({trajectory,mode='shot',view='top',speed=1,label}:{trajectory:Poi
      {!reduced&&<circle key={path+replay+speed} r="5" fill={mode==='foot'?'#ffffff':'#d6ff86'}><animateMotion path={path} dur={(2/speed)+'s'} repeatCount="1" fill="freeze"/></circle>}
     </g>
    </svg>
-   <figcaption><span>전술 교육용 도식</span>{!reduced&&<button className="text-btn" onClick={()=>setReplay(n=>n+1)}><Play size={14}/> 다시 재생</button>}</figcaption>
+   <figcaption>{!reduced&&<button className="text-btn" onClick={()=>setReplay(n=>n+1)}><Play size={14}/> 다시 재생</button>}</figcaption>
  </figure>;
 }
 function Controls({items,value,onChange,label}:{items:readonly string[];value:number;onChange:(n:number)=>void;label:string}) {
@@ -57,8 +56,7 @@ function Interview({item}:{item:(typeof interviews)[number]}) {
 }
 export default function AnatomyPage({matches,videos,sourceUrl,openMatch,openSeason}:Props) {
  const [active,setActive]=useState('defense');
- const [def,setDef]=useState(0),[foot,setFoot]=useState(0),[view,setView]=useState(0),[speed,setSpeed]=useState(1);
- const [footReady,setFootReady]=useState(false);
+ const [def,setDef]=useState(0),[foot,setFoot]=useState(0),[speed,setSpeed]=useState(1);
  const [step,setStep]=useState(0),[skill,setSkill]=useState(0),[rival,setRival]=useState('yamaguchi'),[era,setEra]=useState(2),[scope,setScope]=useState(0);
  useEffect(()=>{
   const findActive=()=>{const id=[...chapters].reverse().find(([id])=>(document.getElementById(id)?.getBoundingClientRect().top??Infinity)<185)?.[0]??'defense';setActive(id);};
@@ -90,7 +88,7 @@ export default function AnatomyPage({matches,videos,sourceUrl,openMatch,openSeas
  function content(id:string){
   switch(id){
    case 'defense':return <><Controls items={defense.map(d=>d[0])} value={def} onChange={setDef} label="수비 선택"/><Court trajectory={defense[def][2]} label={defense[def][0]+' 셔틀 궤적'}/><p>{defense[def][1]}</p>{gameCard(defenseClip)}</>;
-   case 'footwork':return <><Controls items={['전위로 이동','후위로 이동']} value={foot} onChange={setFoot} label="풋워크 방향"/><Controls items={['상단','정면','측면']} value={view} onChange={setView} label="코트 시점"/><Controls items={['0.5배속','1배속','2배속']} value={speed} onChange={setSpeed} label="재생 속도"/><div className="anatomy-options">{!footReady&&<button onClick={()=>setFootReady(true)}>3D 풋워크 보기</button>}</div>{footReady&&<Suspense fallback={<p>코트 불러오는 중…</p>}><FootworkCourt direction={foot} view={view} speed={[0.5,1,2][speed]}/></Suspense>}</>;
+   case 'footwork':return <><Controls items={['전위로 이동','후위로 이동']} value={foot} onChange={setFoot} label="풋워크 방향"/><Controls items={['0.5배속','1배속','2배속']} value={speed} onChange={setSpeed} label="재생 속도"/><Court mode="foot" trajectory={foot===0?[110,214,91,188,54,166]:[110,214,129,229,170,265]} speed={[0.5,1,2][speed]} label="풋워크 이동 경로"/></>;
    case 'rally':return <><Controls items={rally.map(s=>s[0])} value={step} onChange={setStep} label="전술 단계"/><Court trajectory={rally[step][2]} label={rally[step][0]}/><p>{rally[step][1]}</p><p>2025년 전영오픈 결승에서 안세영과 왕즈이는 79타 랠리를 펼쳤습니다. 타구 수는 이 장면의 기록입니다. <a href="https://indianexpress.com/article/sports/badminton/watch-in-all-england-final-an-se-young-wins-sensational-79-shot-rally-against-wang-zhi-yi-9890026/" target="_blank" rel="noreferrer">장면과 보도 ↗</a></p>{gameCard(classic)}</>;
    case 'technique':return <><h3>TECHNIQUE LAB</h3><figure className="anatomy-press-photo"><img className="anatomy-photo" src={photo('anatomy/yonex-profile.jpg')} alt="라켓을 들어 올린 안세영" loading="lazy" decoding="async" width="810" height="540"/><figcaption><a href="https://www.yonex.com/athletes/details/?athlete_id=107">사진 · YONEX 공식 선수 프로필 ↗</a></figcaption></figure><Controls items={techniques.map(t=>t[0])} value={skill} onChange={setSkill} label="기술 선택"/><h4>{techniques[skill][0]} · {techniques[skill][1]}</h4><Court trajectory={techniques[skill][4]} label={techniques[skill][0]+' 셔틀 궤적'}/><p>{techniques[skill][2]}</p><p>{techniques[skill][3]}</p>{gameCard(skill===0||skill===6?late:defenseClip)}</>;
    case 'strategy':return <><label>라이벌 <select value={rival} onChange={e=>setRival(e.target.value)}>{rivalsWithRows.map(([key,name])=><option key={key} value={key}>{name}</option>)}</select></label><RivalAnalysis matches={matches} opponent={rival} videos={videos} sourceUrl={sourceUrl}/><details className="reading-notes"><summary>맞대결 {matchup.length}건</summary><div className="anatomy-match-grid">{matchup.map(m=><div key={m.key}>{gameCard(m)}</div>)}</div></details></>;
@@ -106,7 +104,7 @@ export default function AnatomyPage({matches,videos,sourceUrl,openMatch,openSeas
   </section>
   <div className="anatomy-nav" role="navigation" aria-label="특집 목차">{chapters.map(([id,title])=><a key={id} aria-current={active===id?'location':undefined} href={'#'+id}>{title}</a>)}</div>
   <div className="anatomy-body">
-   {chapters.map(([id,title,question,description])=><section className="anatomy-chapter" id={id} key={id}><h2>{title}</h2><h3>{question}</h3><p>{description}</p>{content(id)}{interviews.filter(i=>i.chapter===id).map(i=><Interview key={i.url} item={i}/>)}</section>)}
+   {chapters.map(([id,title,question,description])=><section className="anatomy-chapter" id={id} key={id}><h2>{title}</h2><h3>{question}</h3>{description&&<p>{description}</p>}{content(id)}{interviews.filter(i=>i.chapter===id).map(i=><Interview key={i.url} item={i}/>)}</section>)}
    <details className="anatomy-chapter"><summary>인터뷰 모아보기 · {interviews.length}건</summary>{interviews.map(i=><Interview key={i.url} item={i}/>)}</details>
    <details className="anatomy-chapter"><summary>사진·영상·기술 출처</summary><p><a href="https://res.cloudinary.com/badminton/images/v1760081409/wordpress_assets_test/BWF-Athletes-Commission-2026-2029-Profiles/BWF-Athletes-Commission-2026-2029-Profiles.pdf" target="_blank" rel="noreferrer">BWF 공식 선수 자료·사진 원문 ↗</a></p><a href="https://www.badminton.org.au/wp-content/uploads/2022/11/1.-BWF-ST-Teachers-Manual_Inclusivity_ENGLISH.pdf" target="_blank" rel="noreferrer">BWF Shuttle Time 지도자 자료 ↗</a><ul>{imageSources.map(s=><li key={s.file}>{s.use} · {s.originalUrl?<a href={s.originalUrl}>{s.source} 원본 ↗</a>:s.source}</li>)}</ul><p><a href="https://bwfbadminton.us12.list-manage.com/subscribe?id=91b28c9b95&amp;u=73460b7def03b0639c64e732c" target="_blank" rel="noreferrer">BWF 공식 사진·영상 이용 조건 ↗</a></p><p>경기 영상은 BWF TV 원문으로 연결합니다. 기술별 구간은 영상 검증을 마친 뒤 등록합니다.</p></details>
   </div>

@@ -238,5 +238,213 @@
     "checked": "2026-11-16",
     "scope": "안세영 대회 불참",
     "status": "확인"
+  },
+  {
+    "id": "worlds26-draw",
+    "title": "BWF World Championships 2026 · 경기 결과",
+    "url": "https://badmintonworldtour.com/bwf-world-championships-2026-order-of-play-results/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "china26-draw",
+    "title": "LI-NING China Masters 2026 · 경기 결과",
+    "url": "https://www.badmintonpeople.com/an-se-young/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "denmark26-draw",
+    "title": "VICTOR Denmark Open 2026 · 경기 결과",
+    "url": "https://www.badmintonpeople.com/an-se-young/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "malaysia26-draw",
+    "title": "PETRONAS Malaysia Open 2026 · 경기 결과",
+    "url": "https://www.badmintonpeople.com/malaysia-open/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "japan26-draw",
+    "title": "DAIHATSU Japan Open 2026 · 경기 결과",
+    "url": "https://www.badmintonpeople.com/an-se-young/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "asiad26",
+    "title": "Aichi-Nagoya Asian Games 2026 · 경기 결과",
+    "url": "https://en.yna.co.kr/view/AEN20260929009900315",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "asia26-qf",
+    "title": "Badminton Asia Championships 2026 · 경기 결과",
+    "url": "https://badmintonasia.org/2026/04/10/badminton-asia-championships-2026-ningbo-china-shi-stays-on-course-ayush-dream-run-continues/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "asia26-sf",
+    "title": "Badminton Asia Championships 2026 · 경기 결과",
+    "url": "https://badmintonasia.org/2026/04/12/badminton-asia-championships-2026-ningbo-china-ayush-dream-run-continues-slays-kunlavut-to-set-up-title-clash-against-shi-yu-qi/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "asia26-final",
+    "title": "Badminton Asia Championships 2026 · 경기 결과",
+    "url": "https://badmintonasia.org/2026/04/13/badminton-asia-championships-2026-an-se-young-wins-first-asian-title-to-complete-grand-slam/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "asia26-r16",
+    "title": "Badminton Asia Championships 2026 · 경기 결과",
+    "url": "https://badmintonasia.org/2026/04/09/badminton-asia-championships-2026-shi-yu-qi-eases-into-quarters-ayush-continues-fine-run/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "경기별 결과 확인"
+  },
+  {
+    "id": "japan26-wo",
+    "title": "일본오픈 16강 기권 · 대한배드민턴협회 발표 인용",
+    "url": "https://www.starnewskorea.com/en/sports/2026/07/15/2026071514550028704",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "확인"
+  },
+  {
+    "id": "asia26-draw",
+    "title": "아시아선수권 여자단식 대진",
+    "url": "https://www.badmintonpeople.com/asia-championships/",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "확인"
+  },
+  {
+    "id": "worlds-latest",
+    "title": "2025·2026 세계선수권 여자단식 우승 기록",
+    "url": "https://en.yna.co.kr/view/AEN20260823005752315?section=sports%2Fsports",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "확인"
+  },
+  {
+    "id": "england-latest",
+    "title": "2025·2026 전영오픈 여자단식 우승자",
+    "url": "https://en.wikipedia.org/wiki/List_of_All_England_women%27s_singles_champions",
+    "checked": "2026-11-16",
+    "scope": "여자단식",
+    "status": "확인"
+  },
+  {
+    "id": "asiad-draw",
+    "title": "아시안게임 여자단식 전 라운드",
+    "url": "https://badmintonworldtour.com/2026-asian-games-badminton-schedule-results/",
+    "checked": "2026-11-16",
+    "scope": "여자단식 대진 및 점수",
+    "status": "확인"
+  },
+  {
+    "id": "asiad-opening",
+    "title": "아시안게임 32강·16강",
+    "url": "https://www.ajupress.com/view/20260926210870421",
+    "checked": "2026-11-16",
+    "scope": "여자단식 대진 및 점수",
+    "status": "확인"
+  },
+  {
+    "id": "asiad-semi",
+    "title": "아시안게임 준결승",
+    "url": "https://en.yna.co.kr/view/AEN20260928007100315",
+    "checked": "2026-11-16",
+    "scope": "여자단식 대진 및 점수",
+    "status": "확인"
+  },
+  {
+    "id": "singapore26-draw",
+    "title": "싱가포르오픈 공식 대진표",
+    "url": "https://www.badminton.or.jp/storage/conventions/pdf/1181/free_form_1_20260604_130751.pdf",
+    "checked": "2026-11-16",
+    "scope": "여자단식 대진 및 점수",
+    "status": "확인"
+  },
+  {
+    "id": "indonesia26-draw",
+    "title": "인도네시아오픈 공식 대진표",
+    "url": "https://www.badminton.or.jp/storage/conventions/pdf/1246/free_form_1_20260609_145305.pdf",
+    "checked": "2026-11-16",
+    "scope": "여자단식 대진 및 점수",
+    "status": "확인"
+  },
+  {
+    "id": "uber26-group",
+    "title": "2026 우버컵 조별리그",
+    "url": "https://en.wikipedia.org/wiki/2026_Uber_Cup_group_stage",
+    "checked": "2026-11-16",
+    "scope": "단체전 여자단식",
+    "status": "확인"
+  },
+  {
+    "id": "uber26-knockout",
+    "title": "2026 우버컵 토너먼트",
+    "url": "https://en.wikipedia.org/wiki/2026_Uber_Cup_knockout_stage",
+    "checked": "2026-11-16",
+    "scope": "단체전 여자단식",
+    "status": "확인"
+  },
+  {
+    "id": "asiad26-team",
+    "title": "2026 아시안게임 여자 단체 8강",
+    "url": "https://en.yna.co.kr/view/AEN20260922006000315",
+    "checked": "2026-11-16",
+    "scope": "단체전 여자단식",
+    "status": "확인"
+  },
+  {
+    "id": "asiad26-team-sf",
+    "title": "아시안게임 여자 단체 준결승 · 연합뉴스",
+    "url": "https://en.yna.co.kr/view/AEN20260923006900315",
+    "checked": "2026-11-16",
+    "scope": "여자단식 결과",
+    "status": "확인"
+  },
+  {
+    "id": "india26-draw",
+    "title": "인디아오픈 여자단식 대진",
+    "url": "https://www.badmintonpeople.com/india-open/",
+    "checked": "2026-11-16",
+    "scope": "여자단식 결과",
+    "status": "확인"
+  },
+  {
+    "id": "england26-draw",
+    "title": "전영오픈 여자단식 대진",
+    "url": "https://tplbadminton.com/bwf/5515_WS?tab=draws",
+    "checked": "2026-11-16",
+    "scope": "여자단식 결과",
+    "status": "확인"
+  },
+  {
+    "id": "season26-report",
+    "title": "코리아오픈 이후 시즌 성적 · 연합뉴스",
+    "url": "https://en.yna.co.kr/view/AEN20261108002151315",
+    "checked": "2026-11-16",
+    "scope": "여자단식 결과",
+    "status": "확인"
   }
 ]

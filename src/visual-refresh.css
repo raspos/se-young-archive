@@ -20,3 +20,17 @@
 .reading-notes { margin-block: 12px; color: var(--muted); }
 .reading-notes summary { cursor: pointer; font-size: 14px; }
 .reading-notes p { margin-top: 8px; }
+
+.rival-seasons { display: grid; gap: 10px; max-width: 650px; }
+.rival-seasons > div { display: grid; grid-template-columns: 50px 1fr auto; gap: 12px; align-items: center; }
+.home-compare label { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin-bottom: 12px; }
+.home-ranks { display: flex; flex-wrap: wrap; gap: 28px; padding-left: 24px; }
+.presets button[aria-pressed=true] { color: var(--lime); }
+.advanced-filters { margin: 0; padding: 8px; }
+
+.deferred-court { min-width: 0; }
+@media (max-width: 360px) {
+  .stat-strip .stat { min-width: 0; }
+  .stat-strip .stat small { white-space: normal; overflow-wrap: anywhere; }
+  .stat-strip .stat strong { font-size: 42px; }
+}

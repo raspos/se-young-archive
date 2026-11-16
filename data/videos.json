@@ -1445,5 +1445,105 @@
         "title": "An Se Young vs Akane Yamaguchi | Titans of women’s singles go head-to-head"
       }
     ]
+  },
+  {
+    "date": "2026-10-24",
+    "tournament": "YONEX French Open 2026",
+    "round": "SF",
+    "players": [
+      "an",
+      "Nozomi OKUHARA"
+    ],
+    "checked": "2026-11-16",
+    "verification": "경기별 링크와 YouTube oEmbed의 제목·공식 BWF TV 채널 확인",
+    "videos": [
+      {
+        "id": "RLSdqsdys5Y",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Nozomi Okuhara | Speed, agility and control"
+      }
+    ]
+  },
+  {
+    "date": "2026-10-18",
+    "tournament": "VICTOR Denmark Open 2026",
+    "round": "F",
+    "players": [
+      "an",
+      "Akane YAMAGUCHI"
+    ],
+    "checked": "2026-11-16",
+    "verification": "경기별 링크와 YouTube oEmbed의 제목·공식 BWF TV 채널 확인",
+    "videos": [
+      {
+        "id": "yNPdFOW-k78",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Akane Yamaguchi | Endurance, grit, and glory"
+      }
+    ]
+  },
+  {
+    "date": "2026-09-05",
+    "tournament": "LI-NING China Masters 2026",
+    "round": "SF",
+    "players": [
+      "an",
+      "Akane YAMAGUCHI"
+    ],
+    "checked": "2026-11-16",
+    "verification": "경기별 링크와 YouTube oEmbed의 제목·공식 BWF TV 채널 확인",
+    "videos": [
+      {
+        "id": "7jqsudfhSQ4",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Akane Yamaguchi | Playing chess with every shot"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-22",
+    "tournament": "BWF World Championships 2026",
+    "round": "SF",
+    "players": [
+      "an",
+      "WANG Zhi Yi"
+    ],
+    "checked": "2026-11-16",
+    "verification": "경기별 링크와 YouTube oEmbed의 제목·공식 BWF TV 채널 확인",
+    "videos": [
+      {
+        "id": "NyAZMUpoks4",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Wang Zhi Yi | Exhausting rallies and tactical play"
+      }
+    ]
+  },
+  {
+    "date": "2026-08-17",
+    "tournament": "BWF World Championships 2026",
+    "round": "R64",
+    "players": [
+      "an",
+      "Kaloyana NALBANTOVA"
+    ],
+    "checked": "2026-11-16",
+    "verification": "경기별 링크와 YouTube oEmbed의 제목·공식 BWF TV 채널 확인",
+    "videos": [
+      {
+        "id": "CVIC2WmB3Qk",
+        "kind": "highlights",
+        "label": "하이라이트",
+        "channel": "BWF TV",
+        "title": "An Se Young vs Kaloyana Nalbantova | Precision, patience and tactical play"
+      }
+    ]
   }
 ]

@@ -1,0 +1,148 @@
+{
+  "BWF World Championships 2026": {
+    "source": "worlds26-draw",
+    "rounds": [
+      "R64",
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "LI-NING China Masters 2026": {
+    "source": "china26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "YONEX French Open 2026": {
+    "source": "france2026",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "YEOSU VICTOR Korea Open 2026": {
+    "source": "korea2026",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "VICTOR Denmark Open 2026": {
+    "source": "denmark26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "PETRONAS Malaysia Open 2026": {
+    "source": "malaysia26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "Badminton Asia Championships 2026": {
+    "source": "asia26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "DAIHATSU Japan Open 2026": {
+    "source": "japan26-wo",
+    "rounds": [
+      "R32",
+      "R16"
+    ]
+  },
+  "Aichi-Nagoya Asian Games 2026": {
+    "source": "asiad-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "KFF Singapore Badminton Open 2026": {
+    "source": "singapore26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "POLYTRON Indonesia Open 2026": {
+    "source": "indonesia26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "BWF Uber Cup Finals 2026": {
+    "source": "uber26-knockout",
+    "rounds": [
+      "GROUP 1",
+      "GROUP 2",
+      "GROUP 3",
+      "TEAM QF",
+      "TEAM SF",
+      "TEAM F"
+    ]
+  },
+  "Aichi-Nagoya Asian Games 2026 (Team)": {
+    "source": "asiad26-team-sf",
+    "rounds": [
+      "TEAM QF",
+      "TEAM SF"
+    ]
+  },
+  "YONEX-SUNRISE India Open 2026": {
+    "source": "india26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  },
+  "All England Open Badminton Championships 2026": {
+    "source": "england26-draw",
+    "rounds": [
+      "R32",
+      "R16",
+      "QF",
+      "SF",
+      "F"
+    ]
+  }
+}

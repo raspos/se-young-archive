@@ -54,3 +54,28 @@ test('responsive archive, comparison and ranking avoid page overflow',async({pag
   }
  }
 });
+
+test('anatomy chapters, simulations and archive round trip', async ({page})=>{
+ await goto(page,'anatomy');
+ await expect(page.getByRole('heading',{name:'승리의 해부학',exact:true})).toBeVisible();
+ await expect(page.getByRole('navigation',{name:'특집 목차'}).getByRole('link')).toHaveCount(8);
+ await page.getByRole('button',{name:'네트 앞으로 받기',exact:true}).click();
+ await expect(page.getByRole('img',{name:'네트 앞으로 받기 셔틀 궤적'})).toBeVisible();
+ await page.getByRole('button',{name:'3D 풋워크 보기'}).click();
+ await expect(page.getByRole('img',{name:'3D 풋워크 이동 경로'})).toBeVisible();
+ await page.getByRole('button',{name:'측면',exact:true}).click();
+ await page.getByRole('button',{name:'2배속',exact:true}).click();
+ await page.locator('#rally').getByRole('button',{name:'짧은 드롭',exact:true}).click();
+ await page.locator('#technique').getByRole('button',{name:'푸시',exact:true}).click();
+ await expect(page.locator('#technique h4')).toContainText('푸시');
+ await page.locator('#strategy select').selectOption('harvard:5034337');
+ await expect(page.getByRole('region',{name:'라이벌 분석'})).toBeVisible();
+ await page.locator('#defense').getByRole('button',{name:'경기 원장'}).click();
+ await expect(page.getByRole('dialog')).toBeVisible();
+ await page.getByRole('dialog').getByRole('button',{name:'승리의 해부학'}).click();
+ await expect(page.getByRole('heading',{name:'승리의 해부학',exact:true})).toBeVisible();
+ for(const width of [320,390,768,1440]){
+   await page.setViewportSize({width,height:900});
+   expect(await page.evaluate(()=>document.documentElement.scrollWidth<=innerWidth+1),width+'px').toBe(true);
+ }
+});
